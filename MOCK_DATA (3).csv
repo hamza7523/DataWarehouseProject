@@ -1,0 +1,1001 @@
+transaction_id,rental_id,transaction_date,transaction_year,category_id,category_name,city,country,customer_id,payment_amount,rental_duration
+1,72,2024-06-10,2024-07-26,75,Crime|Drama|Film-Noir|Romance,Baru,Indonesia,55,41,95
+2,22,2025-03-14,2024-10-08,30,Comedy|Drama|Romance,Akademija (Kaunas),Lithuania,89,57,88
+3,40,2025-02-27,2024-10-10,99,Documentary,Sovetskaya,Russia,16,23,13
+4,85,2025-05-13,2024-11-19,46,Drama,Pitkyaranta,Russia,68,87,67
+5,84,2024-09-28,2024-11-14,78,Documentary,Rudky,Ukraine,25,64,29
+6,84,2024-10-25,2025-02-23,17,Mystery|Thriller,Tinalmud,Philippines,47,31,50
+7,3,2025-01-28,2025-04-16,82,Adventure,Chengnan,China,29,80,90
+8,49,2024-06-23,2024-05-24,98,Adventure|Children|Drama,Aksu,Kazakhstan,58,21,40
+9,73,2024-11-17,2025-02-26,92,Adventure|Documentary,Santa Cruz,Honduras,82,44,96
+10,70,2025-04-26,2024-12-24,83,Drama,Umm Sa‘īd,Qatar,22,97,82
+11,51,2025-02-23,2024-06-01,53,Documentary,Naju,South Korea,14,25,72
+12,48,2024-10-27,2025-03-11,15,Action|Adventure|Animation|Fantasy|Horror,Chastyye,Russia,26,96,71
+13,14,2024-07-21,2024-11-14,35,Drama|Romance,Novalja,Croatia,95,80,70
+14,7,2024-11-25,2025-04-29,33,Horror,Fredrikstad,Norway,16,35,29
+15,30,2025-01-30,2024-10-29,7,Crime|Drama|Thriller,Cruzília,Brazil,39,85,59
+16,62,2025-02-24,2024-09-03,92,Documentary,El Carmen,Colombia,84,36,80
+17,33,2024-08-22,2024-06-07,62,Horror|Sci-Fi,Tandzut,Armenia,36,91,45
+18,79,2024-11-11,2025-01-10,34,Comedy,Jincheng,China,31,65,58
+19,20,2024-12-09,2024-12-14,34,Documentary,Sogod,Philippines,19,88,54
+20,71,2025-01-18,2024-05-18,42,Comedy,Leiden,Netherlands,21,95,23
+21,19,2025-02-25,2024-11-03,2,Action|Adventure|Fantasy|Sci-Fi,Balayang,Philippines,33,4,51
+22,46,2025-04-01,2024-12-26,6,Horror|Thriller,Ipoh,Malaysia,79,19,5
+23,66,2024-06-08,2025-01-31,91,Drama,Vitry-sur-Seine,France,1,1,49
+24,46,2024-07-09,2024-07-08,9,Comedy|Drama,Cangkuang,Indonesia,100,44,40
+25,31,2025-01-29,2025-04-28,75,Comedy,Jiaoba,China,42,40,86
+26,59,2024-07-02,2024-12-02,54,Comedy,Pernå,Finland,10,44,75
+27,58,2024-11-21,2025-03-08,52,Action|Thriller,Tigaon,Philippines,26,84,23
+28,55,2025-04-25,2025-03-10,27,Comedy|Romance,Shuangtang,China,49,64,59
+29,90,2025-01-20,2025-04-03,61,Comedy,São Julião do Tojal,Portugal,100,80,7
+30,71,2024-06-01,2024-12-18,23,Comedy|Drama|Romance,Bálsamo Oriental,Honduras,25,39,78
+31,39,2024-07-16,2024-12-05,38,Comedy|Romance,West Island,Cocos Islands,8,92,43
+32,59,2025-01-28,2025-04-21,98,Crime|Drama,Castelo,Portugal,36,66,28
+33,57,2024-07-24,2024-12-04,2,Drama|Horror,Sawahan,Indonesia,77,57,72
+34,8,2025-03-03,2025-01-27,40,Comedy|Romance,Qingyun,China,37,72,74
+35,93,2024-09-26,2025-04-28,40,Comedy,Pietà,Malta,40,32,30
+36,66,2025-01-08,2024-07-27,87,Adventure|Fantasy|Mystery|Thriller,Alejandro Roca,Argentina,31,29,28
+37,3,2025-02-11,2024-05-23,70,Crime|Drama,Cirumput,Indonesia,55,35,61
+38,23,2025-05-17,2025-02-05,90,Drama,Xinchengzi,China,37,35,30
+39,25,2025-01-21,2024-06-02,53,Drama,Circasia,Colombia,15,98,8
+40,19,2025-02-16,2024-07-23,7,Documentary,Turrialba,Costa Rica,10,41,92
+41,74,2024-06-21,2024-06-26,70,Documentary,Aranas Sur,Philippines,74,49,44
+42,37,2024-05-24,2024-07-29,8,Sci-Fi,Yaroslavskiy,Russia,36,63,67
+43,24,2024-05-21,2025-01-29,74,Action|Adventure|Sci-Fi|Thriller,Jinling,China,75,96,30
+44,31,2025-04-24,2024-07-02,98,Adventure|Crime|Drama,Brooklyn,United States,59,96,8
+45,47,2024-11-23,2024-08-13,50,Drama|War,Rosh Pinna,Israel,74,47,74
+46,76,2025-03-29,2024-05-18,52,Action|Adventure|Drama|Western,Mayhan,Mongolia,9,42,94
+47,62,2024-11-10,2024-06-25,3,Comedy,Mchinji,Malawi,54,64,34
+48,16,2024-11-15,2024-12-20,60,Drama|Romance|Sci-Fi,Le Cannet,France,27,39,10
+49,29,2024-09-03,2024-07-23,32,Drama,Haihui,China,86,42,94
+50,30,2024-08-04,2024-08-18,62,Comedy,Jiuhua,China,88,32,51
+51,35,2025-03-23,2024-12-24,22,(no genres listed),Cisaat,Indonesia,7,20,5
+52,26,2024-07-19,2025-03-02,62,Comedy,Fort Smith,United States,8,57,8
+53,35,2024-06-17,2025-05-13,39,Comedy|Drama|Romance|Thriller,Falun,Sweden,83,50,81
+54,69,2025-03-12,2024-07-03,69,Comedy|Drama,Henghe,China,56,83,39
+55,81,2025-01-06,2024-11-18,64,Thriller,Gantang,China,70,25,98
+56,83,2024-11-19,2025-01-30,31,Comedy|Drama,Khlong Luang,Thailand,74,5,81
+57,27,2025-04-11,2024-06-24,8,Comedy|Documentary,Banyupoh,Indonesia,69,72,68
+58,25,2025-01-30,2024-10-18,20,Adventure|Children,Pulautemiang,Indonesia,82,47,69
+59,15,2024-09-15,2025-04-09,69,Drama|Mystery,Qiantang,China,58,86,57
+60,60,2025-01-14,2025-02-27,57,Drama,Ronda,Philippines,68,43,76
+61,50,2024-07-30,2025-01-17,31,Horror,Bradashesh,Albania,2,62,97
+62,14,2024-10-07,2025-04-06,37,Documentary,Rezé,France,43,31,30
+63,92,2024-12-19,2025-02-15,35,Crime|Drama,Gambarjati,Indonesia,7,48,62
+64,50,2024-11-18,2025-03-13,82,Comedy|Horror,Yonggu,China,66,30,80
+65,89,2025-03-15,2024-12-12,6,Comedy,Al Qanāyāt,Egypt,96,34,60
+66,20,2024-09-18,2024-09-12,78,Drama,Fengcheng,China,87,33,58
+67,40,2024-06-20,2024-12-16,14,Animation|Children|Comedy|Drama|Fantasy|Musical,Quebo,Guinea-Bissau,85,80,28
+68,27,2025-02-13,2024-07-28,91,Action|Crime|Mystery|Thriller,Palumbungan,Indonesia,11,18,27
+69,56,2025-01-11,2024-09-30,29,Comedy|Drama,Talawakele,Sri Lanka,56,52,43
+70,52,2025-04-30,2024-09-15,18,Horror|Thriller,Hägersten,Sweden,32,11,6
+71,65,2025-03-01,2024-07-19,62,Drama|Romance,Leiden,Netherlands,72,41,23
+72,86,2025-01-05,2025-05-03,56,Comedy|Crime|Mystery|Thriller,Jiaotang,China,11,66,54
+73,41,2025-04-02,2025-01-29,36,Comedy|Drama,Villazón,Bolivia,31,27,96
+74,42,2025-01-14,2024-10-29,97,Action|Adventure|Comedy|War,Skhodnitsa,Ukraine,85,4,31
+75,6,2024-12-27,2024-11-10,76,Documentary|Musical|IMAX,Abuyog,Philippines,83,43,70
+76,42,2024-11-20,2024-11-10,6,Drama,Messejana,Portugal,59,83,36
+77,2,2024-05-27,2025-05-11,7,Comedy,Yiqi,China,86,6,9
+78,99,2024-08-09,2024-09-19,5,Drama|Thriller,Si That,Thailand,22,92,91
+79,15,2025-02-23,2025-03-09,86,Western,Andradina,Brazil,80,10,44
+80,85,2024-07-03,2024-11-10,22,Horror|Sci-Fi|Thriller,Hitura,Nepal,36,5,52
+81,87,2025-03-05,2024-08-03,77,Adventure|Comedy|Mystery|Romance,Malahide,Ireland,16,49,13
+82,9,2024-08-10,2024-05-25,22,Comedy|Drama|Romance,Timpas,Philippines,33,71,28
+83,92,2024-11-24,2024-10-10,3,Horror|Thriller,Arnage,France,1,97,18
+84,52,2025-03-06,2024-06-11,77,Drama|Romance,Sidayu,Indonesia,63,68,15
+85,95,2025-04-21,2025-01-02,12,Comedy|Horror|Musical|Western,Anjō,Japan,61,36,31
+86,17,2025-01-22,2025-04-12,63,Children|Comedy,Želešice,Czech Republic,57,5,59
+87,14,2024-07-28,2024-07-10,86,Drama|Mystery|Romance,Vouani,Comoros,40,7,81
+88,27,2025-04-08,2024-10-02,74,Comedy,Yanmen,China,81,84,14
+89,67,2024-08-18,2025-04-15,14,Action|Sci-Fi|Thriller,Bitaogan,Philippines,1,49,96
+90,19,2025-01-12,2024-12-14,71,Horror|Thriller,Jiale,China,47,41,40
+91,31,2024-07-16,2024-07-11,67,Drama|Mystery|War,Wangong,China,11,65,33
+92,14,2024-06-01,2025-02-06,57,Drama|Mystery|Thriller,Yueyang,China,76,4,49
+93,66,2024-05-24,2024-09-12,8,Romance|Western,Cangqian,China,83,11,99
+94,26,2024-07-20,2025-01-08,33,Comedy,Tonekābon,Iran,79,13,4
+95,58,2024-10-15,2025-04-10,7,Crime|Thriller,Eskilstuna,Sweden,18,9,63
+96,5,2024-12-23,2024-06-19,61,Crime|Horror|Thriller,Jablonec nad Jizerou,Czech Republic,67,27,30
+97,35,2024-07-19,2024-07-10,67,Drama,Smołdzino,Poland,75,73,76
+98,34,2024-10-31,2025-03-05,55,Musical,Mamfe,Cameroon,63,63,69
+99,38,2025-05-05,2025-04-16,12,Documentary,Mamanguape,Brazil,64,29,100
+100,97,2024-06-26,2024-06-14,89,Drama|Thriller,Bachuan,China,11,97,86
+101,15,2025-05-07,2025-01-26,95,Drama|Romance,Morteros,Argentina,76,15,72
+102,15,2025-02-10,2024-08-22,85,Action|Thriller,Barraute,Canada,31,16,14
+103,38,2024-05-19,2025-05-13,44,Comedy|Crime|Romance,Tamamura,Japan,3,48,96
+104,73,2025-02-25,2024-09-06,40,Mystery|Thriller,Anjirserapat,Indonesia,37,26,3
+105,8,2024-08-24,2025-03-03,70,Documentary,Vydreno,Russia,34,55,41
+106,37,2024-10-08,2024-09-12,6,Documentary,Siqian,China,16,17,34
+107,65,2024-06-12,2025-02-18,65,Action|Crime|Mystery|Romance|Thriller,San Diego,United States,47,5,43
+108,75,2024-08-07,2025-03-29,78,Action|Crime|Thriller,Hradec nad Moravici,Czech Republic,62,17,47
+109,15,2024-06-09,2024-10-20,83,Drama|Romance,Shitong,China,94,100,85
+110,56,2025-01-26,2024-08-15,99,Comedy,Huanghua,China,61,35,40
+111,53,2024-05-26,2025-01-05,5,Comedy|Drama,Praia de Mira,Portugal,8,45,73
+112,90,2024-10-17,2025-02-06,29,Action|Thriller,Sibucao,Philippines,6,85,21
+113,94,2024-11-08,2024-10-03,83,Drama,Bezerros,Brazil,91,5,52
+114,37,2024-07-22,2025-03-12,43,Action|Animation|Drama|Sci-Fi|Thriller,Fenglu,China,73,61,12
+115,99,2024-09-07,2025-01-11,23,Adventure|Animation|Drama|Romance|War,Marsada,Philippines,48,68,63
+116,46,2025-03-18,2025-04-28,66,Crime|Documentary,Jinhe,China,18,89,50
+117,60,2025-01-09,2024-09-07,94,Comedy|Musical,Lazaro Cardenas,Mexico,16,4,7
+118,74,2024-09-12,2025-03-02,89,Documentary,Op,Indonesia,73,2,3
+119,89,2025-02-13,2024-06-23,95,Drama|Fantasy|Romance,Sumiainen,Finland,80,57,84
+120,54,2024-12-24,2024-09-05,47,Action|Adventure|Fantasy,Abomsa,Ethiopia,54,45,73
+121,54,2024-07-10,2024-10-27,23,Action|Adventure|Comedy,Canalete,Colombia,83,86,9
+122,41,2024-06-15,2024-06-25,57,Comedy|Musical,Kaingiwa,Nigeria,59,73,1
+123,73,2024-06-07,2025-02-22,58,Crime|Thriller,Gumaus,Philippines,3,98,78
+124,74,2025-01-01,2025-01-01,16,Drama|Romance,Hongjiazui,China,10,7,60
+125,99,2024-11-15,2025-05-09,18,Crime|Drama|Thriller,Yanghou,China,89,72,77
+126,79,2024-12-10,2025-02-01,41,Crime|Film-Noir,Bang Sao Thong,Thailand,48,87,18
+127,75,2025-05-07,2025-02-06,39,Children|Fantasy,Kolomanu,Indonesia,39,67,63
+128,59,2024-06-14,2024-11-04,53,Adventure|Romance,Tpig,Russia,30,87,90
+129,55,2024-07-25,2025-01-18,38,Comedy|Musical|Romance,Midoun,Tunisia,84,54,90
+130,74,2024-07-08,2024-06-22,88,Documentary,El Zapote,Mexico,57,23,38
+131,9,2024-06-11,2024-11-09,55,Comedy|Sci-Fi,Hässleholm,Sweden,79,46,5
+132,89,2025-03-31,2024-12-27,83,Documentary,Jargalant,Mongolia,33,59,46
+133,46,2025-03-02,2024-12-21,25,Drama|Thriller|Western,Janiuay,Philippines,22,9,92
+134,13,2024-06-02,2024-07-08,59,Comedy,Flórina,Greece,75,36,69
+135,61,2025-02-27,2025-03-22,12,Comedy|Romance,Tostado,Argentina,54,34,11
+136,92,2024-09-24,2024-12-30,22,Drama|Mystery|Romance,Wenfang,China,80,97,13
+137,48,2024-11-08,2024-07-17,78,Thriller,Xiping,China,18,65,33
+138,71,2024-10-01,2025-03-15,35,Documentary,Dagohoy,Philippines,48,73,10
+139,33,2025-02-14,2024-07-13,17,Comedy|Mystery,Roza,Russia,75,99,72
+140,62,2025-03-22,2025-03-03,92,Adventure|Sci-Fi,Gaoqiao,China,42,22,19
+141,67,2024-07-13,2025-02-17,65,Drama|Romance,San Agustin,Peru,66,53,55
+142,96,2025-03-17,2024-05-19,70,Horror|Mystery|Thriller,Lions Bay,Canada,44,24,38
+143,11,2025-04-23,2025-02-14,81,Documentary,Darkovice,Czech Republic,93,71,20
+144,26,2024-06-01,2024-10-15,10,Documentary,Ciwidara,Indonesia,37,87,54
+145,88,2024-05-25,2025-03-20,80,Documentary,Canggou,China,86,89,45
+146,2,2024-12-04,2024-06-02,68,Comedy,Novogurovskiy,Russia,3,12,85
+147,63,2024-07-01,2025-03-01,99,Crime|Drama,Pilcuyo,Peru,76,27,84
+148,70,2025-05-07,2024-06-28,30,Documentary,Mszana Dolna,Poland,17,70,31
+149,17,2025-04-06,2024-09-12,50,Action|Horror|Sci-Fi,Barras,Brazil,3,15,69
+150,61,2024-11-22,2025-02-24,70,Documentary,Meylan,France,49,79,39
+151,91,2024-09-28,2024-08-25,39,Drama,Palmeira,Brazil,18,41,38
+152,37,2024-07-03,2024-12-03,63,Documentary,Clondalkin,Ireland,33,4,4
+153,41,2024-10-16,2024-07-10,18,Drama|Romance,Zhuhe,China,39,12,94
+154,19,2024-06-06,2024-07-14,92,Drama,Hualmay,Peru,7,7,52
+155,45,2024-06-12,2024-10-20,93,Children|Drama|Fantasy,Staraya Ladoga,Russia,70,91,92
+156,47,2025-02-16,2024-06-12,62,Comedy|Drama,Berlin,Germany,86,78,100
+157,71,2025-04-14,2024-05-21,50,Comedy|Drama,Tanbuqiao,China,57,40,25
+158,27,2025-04-15,2024-12-02,54,Comedy|Crime,Zanjān,Iran,85,50,99
+159,32,2024-06-16,2025-02-27,46,Action|Adventure|Documentary,Dongtou,China,75,18,45
+160,89,2025-04-15,2025-02-21,20,Comedy|Drama,Martingança-Gare,Portugal,97,63,81
+161,58,2024-11-28,2025-04-04,4,Comedy|Romance,Cadiz,Spain,76,43,5
+162,63,2025-01-13,2024-12-18,56,Comedy|Romance,Ziębice,Poland,11,45,32
+163,28,2025-04-16,2025-02-21,40,(no genres listed),Umbuldamar,Indonesia,64,11,44
+164,73,2024-05-22,2025-04-14,63,Action|Comedy|Crime,Nakasongola,Uganda,38,22,68
+165,47,2024-12-09,2024-07-28,80,Comedy|Crime|Drama|Mystery,Ketawang,Indonesia,69,15,43
+166,77,2025-04-25,2025-03-19,45,Drama,Bartošovice,Czech Republic,60,43,77
+167,4,2024-06-24,2025-01-23,65,Children|Drama,Baiyang,China,66,93,23
+168,58,2025-04-11,2024-10-26,9,Animation|Horror,Årjäng,Sweden,9,95,24
+169,38,2025-01-07,2025-02-07,16,Drama|Romance,Ingarö,Sweden,27,3,28
+170,78,2024-05-19,2025-04-01,74,Comedy,Miastków Kościelny,Poland,35,77,68
+171,76,2025-01-09,2024-12-14,19,Romance|Sci-Fi,Peza e Madhe,Albania,73,17,82
+172,68,2024-10-19,2025-02-03,72,Drama|Romance,Huangshi,China,85,54,53
+173,25,2025-04-22,2024-09-06,10,Drama,Daliuhang,China,88,75,21
+174,99,2024-09-20,2024-06-05,39,Documentary,Rajsko,Poland,21,85,68
+175,35,2025-01-07,2024-10-09,38,Drama|Mystery|Romance,Manicahan,Philippines,66,21,92
+176,59,2025-01-17,2025-04-30,47,Documentary,Leninsk,Russia,13,80,22
+177,9,2024-05-29,2025-02-21,48,Documentary,Miguel Hidalgo,Mexico,7,48,33
+178,83,2024-11-19,2025-02-05,77,Comedy|Drama,Al Khirāb,Yemen,31,56,92
+179,14,2025-02-12,2024-11-16,18,Action|Animation|Fantasy,Krzczonów,Poland,43,69,77
+180,19,2024-10-24,2024-11-01,83,Thriller,Chaowai,China,78,12,2
+181,61,2025-04-13,2025-03-11,51,Comedy|Romance,Sukaraja,Indonesia,56,43,44
+182,44,2025-03-20,2025-04-17,25,Children|Comedy|Fantasy,Putrajaya,Malaysia,38,18,79
+183,57,2024-12-20,2024-05-22,99,Action|Thriller,Sebuku,Indonesia,11,92,17
+184,42,2024-06-01,2024-08-01,70,Comedy,Rote,Indonesia,43,50,48
+185,75,2024-12-13,2024-12-20,77,Comedy|Documentary|Musical,El Mirador,Mexico,55,85,63
+186,56,2024-10-20,2025-03-22,56,Drama|Fantasy|War,Juranalas,Indonesia,60,25,9
+187,12,2025-05-10,2025-04-17,24,Adventure|Drama|Horror,Lampa,Chile,5,74,55
+188,45,2025-02-06,2025-04-03,4,Thriller,Anār,Iran,72,78,26
+189,52,2024-06-26,2025-01-22,24,Drama|Romance|War,Qiryat Shemona,Israel,12,56,96
+190,68,2025-02-19,2025-01-09,58,Film-Noir|Romance|Thriller,Qincheng,China,46,10,12
+191,68,2024-11-23,2024-07-26,30,Documentary,Prioso Barat,Indonesia,32,85,74
+192,72,2024-08-15,2025-02-15,32,Drama,Mungging,Indonesia,52,29,75
+193,43,2024-08-05,2024-07-24,5,Comedy|Drama,Al Qaryatayn,Syria,72,85,69
+194,25,2025-04-03,2024-06-12,10,Comedy|Musical,Ersekë,Albania,22,62,36
+195,80,2025-01-05,2024-06-19,50,Crime|Thriller,Lansing,United States,59,20,75
+196,85,2024-11-30,2024-12-21,80,Comedy|Romance,Kluczbork,Poland,79,32,97
+197,48,2024-09-02,2025-01-14,89,Action|Drama|Western,Kista,Sweden,52,52,31
+198,13,2025-02-12,2024-08-30,47,Comedy|Drama|Romance,Dortmund,Germany,36,10,18
+199,36,2024-09-12,2025-01-20,12,Drama|Musical|Romance|IMAX,Tunja,Colombia,31,81,25
+200,60,2025-01-10,2025-03-31,76,Action|Crime|Thriller,Muncar,Indonesia,95,48,76
+201,49,2024-10-27,2024-07-02,66,Comedy,Filipstad,Sweden,17,17,39
+202,39,2024-08-31,2024-12-19,18,Documentary,Byera Village,Saint Vincent and the Grenadines,79,70,61
+203,92,2024-06-22,2024-08-28,68,Action|Mystery,München,Germany,3,34,66
+204,53,2025-03-05,2024-07-21,51,Comedy|Drama,Mikhaylov,Russia,24,99,32
+205,58,2025-03-01,2025-01-21,8,Comedy|Drama,Lamont,Canada,36,48,11
+206,2,2025-01-21,2024-11-28,18,Action|Adventure,Lomba,Portugal,84,30,60
+207,25,2024-10-12,2025-01-21,10,Documentary,Hutang,China,30,23,89
+208,91,2024-11-20,2024-09-06,82,Sci-Fi|Thriller,Daulatpur,Pakistan,7,25,3
+209,98,2025-01-06,2025-04-19,85,Documentary,Färjestaden,Sweden,71,20,19
+210,20,2024-09-13,2025-02-15,84,Musical|Western,Jdaidet el Matn,Lebanon,93,31,4
+211,63,2025-02-24,2024-12-23,7,Crime|Drama,Shuikou,China,67,72,31
+212,96,2024-06-21,2025-01-27,85,Drama,Buur Gaabo,Somalia,8,68,47
+213,40,2025-04-17,2024-12-24,16,Thriller,Yelizavetinskaya,Russia,1,55,75
+214,69,2025-02-09,2025-01-20,53,Drama|Romance,Rybno,Poland,35,76,50
+215,7,2025-04-11,2024-11-02,49,Horror|Thriller,Phlapphla Chai,Thailand,33,29,45
+216,52,2025-01-16,2024-12-27,50,Action,Venda do Alcaide,Portugal,35,86,30
+217,33,2024-08-23,2025-03-14,64,Animation,Xiwanzi,China,29,59,30
+218,99,2025-02-11,2025-03-15,71,Animation|Documentary,Zhonghuopu,China,81,63,83
+219,39,2024-11-04,2024-11-07,52,Horror|Mystery|Thriller,Pengbu,China,27,88,9
+220,6,2025-04-30,2024-06-17,18,Drama,Helsingborg,Sweden,64,3,54
+221,15,2024-11-09,2025-05-14,19,Horror|Thriller,Koltubanovskiy,Russia,86,7,4
+222,20,2024-12-26,2025-03-11,40,Comedy|Thriller,Catabola,Angola,90,89,18
+223,93,2024-09-07,2025-01-26,64,Horror|Mystery,Horki,Belarus,86,35,59
+224,35,2024-06-04,2025-04-02,28,Comedy,Tandaltī,Sudan,24,94,51
+225,58,2024-09-30,2024-08-02,44,Crime|Drama|Thriller,Paris 14,France,20,15,83
+226,35,2025-05-10,2025-02-26,100,Drama|Thriller,Kudowa-Zdrój,Poland,69,4,37
+227,12,2025-01-17,2024-11-18,5,Horror|Thriller,Suwaru,Indonesia,99,21,16
+228,38,2024-06-24,2024-05-20,27,Action|Adventure|Thriller,Kadoma,Japan,60,67,40
+229,46,2024-12-29,2024-12-20,97,Documentary,Asnières-sur-Seine,France,85,39,84
+230,85,2025-05-12,2024-06-19,13,Action|Adventure|Animation|Children|Comedy|Fantasy,Shentang,China,29,23,69
+231,91,2025-03-17,2024-11-08,77,Drama|Romance,Krasnodar,Russia,72,58,67
+232,27,2024-11-21,2024-08-22,83,Action|Crime|Thriller,Pingtian,China,38,13,69
+233,80,2025-02-14,2024-07-11,46,Drama,Halimaung Jaya (F-3),Indonesia,20,49,76
+234,99,2024-12-09,2024-06-25,40,Drama|Romance|War,Juazeiro do Norte,Brazil,99,37,83
+235,6,2024-05-30,2024-12-06,99,Comedy|Romance,Pasirlaja,Indonesia,49,42,36
+236,24,2024-08-23,2025-01-08,53,Comedy,Ciudad Bolívar,Colombia,78,39,10
+237,47,2025-05-05,2024-09-10,16,Action|Animation|Children|Crime,Golmud,China,99,95,6
+238,39,2024-10-04,2024-06-21,9,Comedy,Nankou,China,96,70,93
+239,8,2024-11-29,2025-01-13,18,Drama|War,Béreldange,Luxembourg,5,27,39
+240,29,2025-03-31,2024-12-07,42,Documentary,Crateús,Brazil,69,66,65
+241,22,2024-11-07,2024-12-18,49,Drama,Tangquan,China,69,45,93
+242,48,2024-08-07,2024-12-30,28,Drama|Romance,Rivesaltes,France,34,18,87
+243,98,2024-07-16,2025-01-21,8,Action|Comedy|Horror,Willemstad,Curacao,94,98,17
+244,6,2025-04-09,2024-07-27,6,Action|Crime|Sci-Fi,Moncada,Philippines,88,88,97
+245,16,2024-12-10,2024-06-11,48,Drama,Sacramento,United States,33,50,77
+246,37,2024-10-03,2024-09-30,2,Drama,Doāba,Pakistan,35,20,50
+247,36,2024-05-29,2024-09-24,19,Action|Adventure|Thriller,Gò Dầu,Vietnam,13,88,38
+248,81,2025-02-26,2025-03-21,15,Musical,Filipowice,Poland,49,70,15
+249,55,2024-06-04,2024-08-17,69,Drama,Ростуша,Macedonia,3,71,99
+250,25,2024-10-18,2025-05-04,77,Comedy|Drama|Romance,Bārah,Sudan,64,83,71
+251,69,2024-12-13,2024-12-15,44,Crime|Drama,Acobamba,Peru,50,99,68
+252,50,2024-10-25,2025-03-10,45,Documentary,Shijing,China,84,62,60
+253,49,2024-11-04,2024-05-24,43,Drama|Romance|War,Sabang,Philippines,6,6,34
+254,52,2025-01-29,2024-10-14,41,Horror|Sci-Fi|Thriller,Malpique,Portugal,27,46,28
+255,23,2025-03-14,2024-07-16,61,Drama|Horror|Romance,Dębno,Poland,97,57,36
+256,23,2025-03-12,2025-03-12,57,Action|Mystery,Emiliano Zapata,Mexico,90,27,54
+257,15,2024-11-04,2024-05-24,67,Drama,Paris 12,France,48,44,72
+258,92,2025-04-17,2024-06-03,85,Horror|Mystery|Thriller,Sumalig,Philippines,68,61,81
+259,67,2024-09-06,2024-10-17,93,Documentary,Vila de Rei,Portugal,82,76,50
+260,84,2025-01-27,2025-01-21,89,Thriller,Songfeng,China,74,54,75
+261,37,2025-03-06,2025-03-29,100,Drama|War,Greytown,South Africa,98,43,98
+262,35,2025-04-07,2024-05-21,42,Comedy,Lille,France,100,5,15
+263,81,2024-07-20,2024-05-27,15,Comedy|Romance,Reims,France,23,91,97
+264,15,2025-04-09,2024-12-03,62,Mystery|Thriller,Varadero,Cuba,28,51,73
+265,71,2024-11-08,2024-12-31,23,Drama,San Francisco,United States,82,9,5
+266,45,2024-11-03,2025-03-05,36,Comedy|Drama|Romance,Sovetskiy,Russia,30,77,33
+267,66,2024-09-20,2024-10-25,84,Comedy,Maagnas,Philippines,50,91,38
+268,57,2024-08-20,2024-09-21,89,Comedy|Musical,Muktāgācha,Bangladesh,38,56,52
+269,100,2025-03-18,2025-03-14,93,Romance,Tigaherang,Indonesia,93,4,40
+270,31,2025-03-22,2024-09-29,7,Action,Perstorp,Sweden,82,68,44
+271,34,2025-03-05,2024-11-28,12,Drama|Horror,Shirone,Japan,78,93,36
+272,88,2024-08-19,2024-07-27,96,Drama|Thriller,Tembladera,Peru,61,26,19
+273,86,2024-08-05,2024-12-07,31,Comedy,Ampelókipoi,Greece,8,22,53
+274,3,2025-03-08,2024-08-30,36,Comedy|War,Kramators’k,Ukraine,26,32,42
+275,47,2024-12-16,2024-10-15,36,Drama|Romance,Mingshui,China,83,55,100
+276,41,2024-11-22,2024-12-28,88,Crime|Thriller,Las Breñas,Argentina,42,19,27
+277,6,2025-05-14,2025-03-17,47,Drama|Western,Rūdiškės,Lithuania,57,12,14
+278,73,2025-03-31,2025-05-07,92,Drama|Western,Åkersberga,Sweden,87,79,36
+279,39,2025-01-28,2025-03-25,6,Drama|Romance,Tala,Uruguay,10,50,38
+280,89,2024-07-16,2024-09-26,10,Adventure|Comedy|Sci-Fi,Sangmu,China,41,50,38
+281,42,2024-06-15,2024-10-08,7,Sci-Fi,Ueda,Japan,95,63,12
+282,60,2024-12-02,2024-08-26,14,Drama|Romance,San Pedro de Macorís,Dominican Republic,94,96,16
+283,15,2024-10-29,2024-12-03,72,Drama,Bachowice,Poland,43,80,17
+284,89,2025-01-22,2024-10-09,99,Action|Sci-Fi,Maikun,China,98,72,36
+285,68,2024-12-21,2024-11-21,5,Mystery|Thriller,Tyshkivka,Ukraine,21,97,37
+286,3,2024-08-17,2025-03-22,10,Horror|Mystery|Thriller,Kedian,China,10,71,40
+287,52,2025-03-04,2024-07-05,4,Action|Crime|Mystery,Tangpu,China,21,46,38
+288,6,2025-02-02,2024-12-03,92,Comedy,Costa Sacate,Argentina,72,30,86
+289,71,2025-04-02,2025-03-03,23,Drama|Sci-Fi,Haolaishan,China,12,18,64
+290,90,2024-07-08,2025-02-10,95,Drama|Horror|Thriller,Baimiao,China,4,65,8
+291,43,2024-11-11,2024-12-13,35,Horror|Mystery|Thriller,Jazovo,Serbia,22,29,96
+292,74,2024-12-10,2024-09-12,8,Drama|Thriller,København,Denmark,93,11,47
+293,96,2025-01-15,2024-08-09,27,Action|Adventure|Comedy|Sci-Fi,Roubaix,France,54,35,65
+294,7,2025-03-17,2025-05-14,77,Drama|Thriller,Erbil,Iraq,98,16,36
+295,43,2025-03-03,2024-12-22,52,Crime|Drama|Thriller,Honda,Colombia,60,75,91
+296,55,2024-07-15,2024-07-21,40,Drama,Paris 09,France,48,36,91
+297,99,2024-07-04,2024-08-30,78,Horror|Thriller,Polo,Philippines,28,88,81
+298,84,2024-06-18,2024-05-31,58,Drama,Novyy Urgal,Russia,27,56,50
+299,58,2025-04-26,2025-02-07,31,Action|Adventure|Crime|Drama|Thriller,Pueblo Nuevo,Colombia,64,80,15
+300,86,2024-09-07,2024-08-05,15,Comedy|Crime,Xinzhuang,China,99,48,98
+301,21,2025-01-19,2024-12-08,23,Action|Comedy|Crime,Yazykovo,Russia,77,39,5
+302,40,2025-02-08,2024-11-15,5,Thriller,Sumuranyar,Indonesia,29,34,4
+303,10,2025-01-04,2024-10-23,35,Action|Sci-Fi|Thriller,Dongling,China,44,70,40
+304,87,2024-05-26,2024-12-18,10,Drama,Lorient,France,80,24,26
+305,91,2025-04-12,2025-02-26,13,Drama,Pacaraos,Peru,51,3,61
+306,99,2025-03-16,2024-10-02,4,Drama,Złoty Stok,Poland,41,53,44
+307,24,2024-08-26,2025-01-07,54,Comedy,Shihua,China,31,9,15
+308,52,2025-04-17,2024-08-26,80,Crime|Drama,Gandusari,Indonesia,83,100,30
+309,71,2025-04-28,2025-02-28,54,Comedy|Romance,Takanabe,Japan,14,95,48
+310,82,2024-10-30,2025-02-17,19,Drama,Potikosin,Indonesia,20,25,15
+311,88,2024-10-29,2024-10-24,61,Drama,Pervomayskoye,Russia,1,6,78
+312,7,2024-12-08,2024-06-08,63,Drama,Lederaba,Indonesia,57,97,28
+313,17,2024-11-06,2025-01-28,87,Action|Horror|Sci-Fi|Thriller,Tomar,Portugal,23,86,31
+314,21,2024-07-27,2024-08-15,29,Documentary,Atsipópoulon,Greece,12,97,62
+315,60,2024-08-27,2024-07-06,63,Drama,Golčův Jeníkov,Czech Republic,96,69,27
+316,22,2025-01-08,2024-07-24,49,Animation,Jingzhu,China,22,30,85
+317,34,2024-09-10,2025-05-08,74,Comedy|Crime,Sirnasari,Indonesia,31,3,39
+318,29,2024-11-22,2024-11-10,3,Animation|Sci-Fi,Yuetang,China,69,5,58
+319,49,2024-07-05,2024-08-16,48,Documentary,San Matías,Bolivia,82,6,56
+320,14,2025-03-23,2025-02-21,67,Documentary,Leran Wetan,Indonesia,69,21,9
+321,27,2024-12-11,2024-06-09,95,Children|Comedy,Cikarang,Indonesia,91,92,55
+322,53,2024-12-06,2024-06-09,8,Action|Adventure|Thriller,Xinle,China,62,77,43
+323,75,2024-07-24,2024-10-04,30,Crime|Horror|Mystery,Saskatoon,Canada,43,77,47
+324,77,2025-01-08,2025-03-22,22,Comedy|Drama|Romance,Fankeng,China,69,79,34
+325,98,2025-01-26,2024-08-23,74,Action|Adventure|Crime|Drama,Nkurenkuru,Namibia,43,58,35
+326,78,2024-10-26,2024-07-11,25,Drama,Petrovskoye,Russia,71,36,29
+327,1,2024-05-25,2024-08-28,83,Fantasy|IMAX,Vanves,France,15,36,26
+328,59,2024-10-22,2025-05-17,90,Comedy,Lela,Indonesia,91,53,29
+329,8,2024-11-18,2025-01-05,100,Comedy|Drama,Kangar,Malaysia,75,43,76
+330,20,2024-08-05,2024-12-25,57,Drama,Kastav,Croatia,96,24,71
+331,6,2024-07-04,2025-02-25,7,Comedy|Musical|Romance,Erling,China,32,48,6
+332,80,2024-06-25,2024-06-07,55,Comedy|Romance,Siyang,China,17,14,90
+333,59,2024-11-09,2025-03-01,95,Drama,San Vicente,Philippines,48,11,91
+334,9,2024-09-17,2024-12-05,19,Documentary,Zhaoxiang,China,21,90,61
+335,93,2024-11-13,2024-09-04,64,Crime|Mystery|Thriller,Vila Nova de Santo André,Portugal,15,55,40
+336,49,2024-09-13,2025-02-19,37,Drama,Banhā,Egypt,16,99,91
+337,90,2024-12-17,2024-11-23,26,Crime|Drama|Film-Noir,Drochia,Moldova,6,30,55
+338,52,2024-06-26,2025-05-05,27,Comedy,Taocheng,China,51,86,32
+339,76,2025-02-24,2025-01-30,3,Action|Comedy,Terezín,Czech Republic,70,18,8
+340,33,2025-05-13,2025-01-26,12,Documentary,Khagrachhari,Bangladesh,62,64,58
+341,43,2025-03-18,2025-03-31,95,Horror|Western,Songjiang,China,59,21,91
+342,40,2024-07-31,2025-02-18,35,Drama,Partikan,Indonesia,34,90,52
+343,7,2025-02-13,2024-07-19,32,Drama,Cigadog Hilir,Indonesia,88,95,3
+344,7,2024-11-18,2024-12-09,15,Action|Comedy|Crime|Thriller,Parelhas,Brazil,60,77,74
+345,8,2024-09-06,2024-06-25,73,Crime|Drama,Boulogne-Billancourt,France,3,2,59
+346,42,2024-11-15,2024-08-22,68,Drama,Oliveira de Frades,Portugal,3,83,62
+347,9,2025-02-03,2025-02-28,19,Drama|Romance,Antagan Segunda,Philippines,17,42,79
+348,26,2025-03-19,2024-05-30,1,Comedy|Drama|Romance,Villazón,Bolivia,18,63,11
+349,75,2024-12-21,2024-11-16,47,Drama,Petaling Jaya,Malaysia,81,21,35
+350,22,2025-04-15,2024-11-21,44,Drama|Western,Singaraja,Indonesia,46,35,92
+351,92,2024-07-27,2025-03-13,25,Adventure|Comedy|Drama|War,San,Mali,37,100,75
+352,54,2024-10-20,2024-11-12,71,Action|Comedy|Crime|Thriller,Xiaogang,China,83,29,60
+353,69,2025-01-03,2024-12-28,32,Horror,Longde Chengguanzhen,China,39,32,33
+354,19,2024-12-08,2024-06-26,6,Action|Adventure,Gaozhai,China,62,64,84
+355,13,2024-07-03,2025-01-25,80,Horror,Oporapa,Colombia,71,60,57
+356,14,2024-07-31,2024-06-02,44,Drama|Horror,Baun,Indonesia,38,4,24
+357,21,2024-10-27,2024-08-01,75,Comedy|Drama|Fantasy,San Sebastian,Mexico,67,98,55
+358,46,2024-11-29,2024-09-09,97,Animation|Comedy,Kępie Żaleszańskie,Poland,12,28,52
+359,60,2025-05-03,2025-02-10,61,Drama,Évry,France,73,26,58
+360,72,2025-03-01,2025-04-10,5,Drama,Munjul,Indonesia,69,40,65
+361,67,2025-04-04,2024-08-24,31,Thriller,Al Maţarīyah,Egypt,77,39,75
+362,21,2024-11-22,2024-08-16,17,Drama|Horror|Mystery|Thriller,Mrozy,Poland,87,72,39
+363,10,2025-03-20,2024-12-24,62,Drama|Romance,Kurortnyy,Russia,53,29,30
+364,66,2025-02-22,2025-02-05,43,Drama|Film-Noir|Thriller,Thạnh Mỹ,Vietnam,82,32,23
+365,37,2024-06-27,2024-06-17,3,Comedy|Drama,Sakharovo,Russia,58,96,95
+366,87,2025-03-09,2024-09-02,31,Drama|Horror|Thriller,San Juan,Philippines,43,55,90
+367,7,2024-07-12,2025-04-07,28,Comedy|Drama|Romance,Oetuke,Indonesia,12,34,76
+368,36,2024-08-13,2024-08-10,71,Comedy|Drama,Bosanski Brod,Bosnia and Herzegovina,97,87,1
+369,79,2024-11-29,2024-05-25,6,Comedy|Drama|Romance,Andradas,Brazil,42,17,100
+370,31,2024-09-25,2024-10-31,57,Adventure|Children|Drama|Fantasy|Mystery,Panjiang,China,90,17,87
+371,82,2024-12-04,2024-09-06,15,Comedy|Drama|Romance,Kuźnia Raciborska,Poland,51,48,2
+372,62,2024-12-16,2024-07-20,48,Adventure|Drama,Akron,United States,20,35,98
+373,18,2025-03-11,2024-06-27,47,Drama,Xiaoguai,China,58,13,23
+374,57,2025-02-13,2024-07-14,16,Horror|Thriller,Lajarik,Indonesia,61,2,42
+375,39,2024-09-15,2024-06-20,51,Drama|Romance,Huimin,China,57,43,87
+376,17,2024-07-14,2024-12-02,16,Comedy|Romance,Visim,Russia,88,10,53
+377,87,2025-02-14,2025-02-27,38,Documentary,Kvänum,Sweden,59,43,94
+378,71,2025-01-23,2025-04-25,52,Adventure|Musical,Mashi,Nigeria,73,74,16
+379,6,2024-12-16,2025-03-17,15,Adventure|Crime|Drama,Tsybli,Ukraine,52,11,19
+380,82,2024-10-23,2024-09-02,29,Action|Sci-Fi|Thriller,Lueng Putu,Indonesia,21,40,63
+381,19,2025-03-04,2024-10-24,41,Comedy,Maddela,Philippines,21,56,51
+382,74,2025-02-01,2024-10-25,37,Action|Horror|Sci-Fi,Lae,Papua New Guinea,29,27,53
+383,7,2025-05-09,2025-04-15,12,Comedy,Wulijie,China,56,31,80
+384,21,2024-05-28,2024-06-09,40,Drama,Karanglo,Indonesia,53,52,97
+385,56,2024-08-26,2024-12-15,94,Comedy|Romance,Shinan,China,92,94,58
+386,35,2024-09-19,2024-12-28,12,Horror|Sci-Fi,Los Angeles,United States,28,78,96
+387,3,2024-08-15,2024-09-11,88,Drama|Romance,Xinwu,China,86,13,88
+388,36,2025-02-26,2024-06-22,66,Comedy|Horror,Grivenskaya,Russia,20,95,17
+389,9,2024-10-30,2024-08-07,9,Comedy|Drama,Malāyer,Iran,42,64,18
+390,6,2025-03-13,2024-07-15,93,Documentary,Asunción Mita,Guatemala,35,21,67
+391,43,2025-01-01,2024-07-14,96,Sci-Fi|Thriller,Thanatpin,Myanmar,8,40,3
+392,8,2024-10-02,2024-10-08,55,Drama,Marseille,France,29,42,78
+393,77,2024-11-16,2025-05-06,34,Drama|War,Berlin,Germany,51,4,65
+394,28,2024-12-22,2025-04-08,43,Adventure|Children|Fantasy|Musical,Huayana,Peru,4,38,38
+395,38,2024-08-20,2024-10-14,57,Drama,Xiangshui,China,92,57,36
+396,61,2024-10-30,2025-01-28,12,Comedy|Crime|Drama|War,Vyksa,Russia,99,50,5
+397,39,2025-01-09,2024-06-01,97,Drama,Ježdovec,Croatia,85,76,73
+398,97,2024-12-01,2024-06-28,37,Drama,Zhangjiachang,China,47,4,36
+399,41,2024-08-13,2024-11-07,62,Comedy|Romance,Kardamás,Greece,41,36,22
+400,92,2024-09-18,2024-05-25,91,Crime|Thriller,Glogovac,Kosovo,45,82,95
+401,75,2024-05-31,2025-01-19,67,Drama,Fengcheng,China,52,22,88
+402,15,2025-01-08,2025-02-26,78,Comedy,Ust’-Ilimsk,Russia,43,60,92
+403,76,2024-10-22,2024-10-16,46,Documentary,Suvorov,Russia,75,65,50
+404,40,2025-03-13,2024-10-25,43,Comedy|Drama,Eqlīd,Iran,3,93,56
+405,77,2024-12-19,2024-06-04,95,Comedy|Drama,Krotoszyn,Poland,39,88,65
+406,80,2024-06-30,2024-08-15,74,Adventure|Drama|Romance,Oruro,Bolivia,14,37,90
+407,98,2025-03-22,2024-10-24,63,Action|Animation|Crime,Simitli,Bulgaria,36,57,10
+408,61,2024-09-16,2024-10-28,87,Drama|Film-Noir|Horror|Mystery,Sopo,Indonesia,72,83,25
+409,12,2024-10-04,2025-04-03,44,Comedy|Crime,Lichtenburg,South Africa,90,75,15
+410,89,2024-09-13,2025-02-08,54,Sci-Fi,Kediri,Indonesia,72,97,31
+411,81,2025-04-17,2025-03-03,59,Documentary,Dahe,China,54,92,47
+412,48,2025-03-01,2024-12-11,74,Drama,Quận Sáu,Vietnam,96,90,34
+413,17,2024-06-15,2025-03-06,100,Sci-Fi|Thriller,Kikerino,Russia,89,52,59
+414,48,2024-09-22,2025-02-06,26,Adventure|Comedy|Crime|Drama|Mystery|Thriller,Tierra Blanca,Mexico,36,40,31
+415,11,2024-12-01,2024-10-11,95,Documentary,Steblevë,Albania,86,96,2
+416,74,2025-04-18,2024-11-25,64,Thriller,Nazrēt,Ethiopia,93,60,62
+417,89,2025-03-05,2025-04-15,10,Children|Drama,Dahe,China,33,40,46
+418,2,2024-07-25,2024-08-17,85,Drama,Koten,Indonesia,25,25,83
+419,75,2025-03-10,2025-03-10,83,Drama,Yuncheng,China,12,18,72
+420,69,2025-04-04,2024-05-27,81,Action|Fantasy|Sci-Fi|IMAX,Strömsnäsbruk,Sweden,48,52,88
+421,44,2025-03-16,2024-08-25,66,Drama|Horror|Mystery,Herceg-Novi,Montenegro,21,82,14
+422,82,2024-06-25,2024-07-27,95,Drama|Romance,Sanjie,China,57,27,67
+423,9,2025-04-20,2024-11-01,12,Comedy,Montpellier,France,13,57,26
+424,47,2024-10-29,2025-02-05,14,Western,Genzi,China,33,99,42
+425,61,2024-07-06,2025-01-08,14,Drama|Thriller|War,Nueva Italia,Paraguay,25,92,17
+426,47,2024-09-03,2024-09-12,74,Crime|Drama|Film-Noir|Thriller,Frontignan,France,89,43,37
+427,35,2024-06-14,2024-11-15,23,Crime|Thriller,Leninskoye,Russia,91,12,82
+428,31,2024-12-11,2024-07-11,5,Drama|Fantasy|Horror,Tongle,China,71,16,28
+429,46,2024-12-12,2025-02-23,54,Drama|Film-Noir|Mystery,Benavila,Portugal,11,73,25
+430,43,2025-01-22,2024-12-18,75,Documentary,K’anak’erravan,Armenia,54,38,72
+431,32,2025-03-09,2024-09-18,58,Comedy|Romance,Dubu,China,92,9,49
+432,12,2024-08-14,2025-03-09,83,Action|Adventure|Thriller,Haixing,China,24,20,64
+433,86,2024-11-01,2024-10-19,98,Comedy|Drama,Velyki Sorochyntsi,Ukraine,80,65,12
+434,81,2024-06-17,2025-04-25,71,Comedy,Placencia,Belize,100,36,15
+435,1,2024-12-21,2025-01-07,87,Documentary,Linköping,Sweden,67,69,76
+436,76,2024-07-29,2025-01-17,4,Crime|Thriller,Bāsht,Iran,73,51,41
+437,57,2024-09-20,2024-11-20,86,Comedy|Drama,Arauca,Colombia,78,11,5
+438,25,2024-09-17,2024-09-01,20,Drama,Union,Philippines,74,77,47
+439,95,2024-07-14,2024-06-15,95,Drama|War,Przodkowo,Poland,90,99,55
+440,44,2024-08-23,2025-03-11,73,Drama|Fantasy|Romance,Arroyo Seco,Mexico,41,43,11
+441,65,2024-10-03,2024-12-25,19,Romance,El Paso,United States,9,92,68
+442,2,2025-02-20,2025-02-01,98,Drama|War,Mingjiu,China,45,90,81
+443,59,2024-07-18,2024-09-18,7,Crime|Horror|Sci-Fi,Azor,Israel,85,79,58
+444,92,2025-02-08,2024-12-03,48,Action|Crime,Marína,Greece,1,45,57
+445,30,2024-08-13,2024-08-17,37,Documentary,Dalai,China,96,100,69
+446,36,2024-12-15,2025-02-25,75,Western,Vërtop,Albania,97,74,83
+447,51,2024-11-26,2025-04-19,14,Drama,Pajung,Indonesia,6,26,54
+448,59,2025-01-17,2024-09-18,22,Drama,Hongmiao,China,58,45,38
+449,82,2025-05-06,2024-11-21,11,Drama|War,Bílovec,Czech Republic,6,3,25
+450,78,2024-06-17,2024-09-22,30,Action|Comedy|Musical|Sci-Fi,Honolulu,United States,82,24,85
+451,50,2025-03-26,2025-03-13,92,Comedy,Montpellier,France,48,59,82
+452,93,2024-07-14,2024-08-22,65,Comedy|Romance,Taung,South Africa,89,77,3
+453,17,2024-05-23,2024-05-30,61,Adventure|Comedy,Youfang,China,40,25,40
+454,1,2024-08-04,2025-05-16,57,Adventure|Romance,Baraguá,Cuba,24,20,98
+455,3,2024-09-20,2025-04-29,64,Crime|Thriller,Hita,Japan,1,60,96
+456,49,2024-08-21,2025-04-13,21,Drama,Brasília de Minas,Brazil,91,80,81
+457,10,2024-08-14,2024-12-15,70,Drama,Kraljevo,Serbia,100,93,29
+458,52,2024-12-28,2025-05-09,58,Drama,Djambala,Republic of the Congo,18,73,62
+459,1,2024-10-21,2025-05-05,12,Comedy|Documentary|Drama,Nanjin,China,88,94,97
+460,3,2025-04-30,2024-08-28,40,Adventure|Comedy|Crime,Qiulu,China,98,41,81
+461,67,2024-12-13,2024-10-25,64,Comedy|Drama,Chongwen,China,43,55,86
+462,44,2024-05-23,2025-02-21,45,Action|War,São Julião do Tojal,Portugal,32,16,3
+463,84,2024-07-03,2024-11-05,81,Action|Crime|Drama|Thriller,Bilaran,Philippines,43,10,96
+464,33,2024-09-18,2025-01-04,70,Crime|Drama|Film-Noir|Thriller,Giồng Trôm,Vietnam,74,76,32
+465,19,2025-04-30,2024-08-24,66,Crime|Drama|Film-Noir|Mystery,Bailan,Philippines,41,26,21
+466,66,2025-02-02,2025-02-07,89,Drama,Berekum,Ghana,59,59,53
+467,37,2025-01-25,2024-12-20,24,Action|Adventure|Comedy|Crime|Fantasy,Bayasgalant,Mongolia,32,88,99
+468,89,2024-10-20,2024-12-12,30,Documentary|Drama,Prakhon Chai,Thailand,59,26,90
+469,15,2024-10-24,2025-03-30,52,Crime|Horror|Thriller,Teongtoda,Indonesia,81,18,22
+470,3,2024-05-25,2024-12-20,61,Animation|Comedy|Fantasy,Kultayevo,Russia,7,20,58
+471,87,2024-12-30,2024-10-02,21,Comedy,Abricots,Haiti,81,51,37
+472,2,2025-02-09,2025-05-04,87,Comedy|Sci-Fi,Lagoa Seca,Brazil,23,42,73
+473,31,2024-09-28,2024-05-29,82,Drama|Thriller,Xikou,China,45,18,29
+474,90,2024-12-17,2025-01-14,30,Drama,Lubrza,Poland,67,40,78
+475,43,2025-01-10,2024-12-31,73,Fantasy,Stockholm,Sweden,69,2,48
+476,76,2024-08-15,2024-08-27,73,Crime|Drama|Thriller,Jaguariaíva,Brazil,37,48,98
+477,57,2025-02-28,2024-10-19,29,Children|Comedy|Fantasy|Horror,Saramech,Armenia,42,29,93
+478,34,2024-06-01,2025-01-27,79,Drama|Mystery|Thriller,Da’an,China,77,21,27
+479,46,2024-11-21,2024-12-23,5,Adventure|Comedy|Drama,Panguna,Papua New Guinea,51,58,58
+480,9,2025-02-04,2024-06-04,51,Adventure|Crime|Drama,Thạnh Mỹ,Vietnam,16,3,50
+481,72,2024-10-31,2024-07-20,68,Action|Drama|Fantasy|Horror,Oxelösund,Sweden,43,82,19
+482,91,2025-04-28,2024-11-05,75,Horror|Sci-Fi,Baraya,Colombia,97,46,74
+483,91,2024-06-23,2024-07-17,35,Drama|Romance,Sapernoye,Russia,38,81,73
+484,77,2025-03-20,2024-05-23,7,Comedy|Sci-Fi|Thriller,Jabłonka,Poland,77,8,30
+485,36,2024-06-14,2025-01-05,13,Drama|Musical,Ambatolampy,Madagascar,98,97,34
+486,60,2025-04-10,2024-11-09,100,Adventure,"Las Vegas, Santa Barbara",Honduras,93,53,79
+487,38,2025-01-30,2024-11-01,55,Crime|Drama|Thriller,Cotuí,Dominican Republic,80,66,69
+488,39,2025-03-16,2025-03-20,95,Comedy,Potok Złoty,Poland,52,87,63
+489,70,2025-01-10,2025-02-07,9,Comedy,Denver,United States,36,36,28
+490,35,2025-01-05,2024-08-21,16,Drama|Horror|Mystery,Nova Olímpia,Brazil,54,56,99
+491,71,2024-11-14,2025-04-12,61,Drama|Romance,Jabłoń,Poland,81,62,75
+492,64,2024-07-21,2024-12-24,11,Western,Sollefteå,Sweden,61,56,46
+493,7,2024-06-24,2025-01-20,19,Documentary,Tonshayevo,Russia,8,63,50
+494,68,2024-08-07,2025-04-21,36,Horror,Lijiapu,China,49,10,24
+495,58,2024-10-19,2024-12-17,93,Comedy|Western,Margabakti,Indonesia,81,18,87
+496,43,2024-11-27,2024-08-22,59,Action|Crime|Drama|Thriller,Inhambupe,Brazil,1,5,87
+497,57,2024-07-28,2024-09-26,11,Action|Adventure|Drama|Mystery|Thriller,Ciela Lebak,Indonesia,17,51,75
+498,21,2025-05-01,2024-10-16,77,Action|Romance,La Plata,Colombia,52,35,48
+499,18,2025-05-03,2025-05-10,80,Drama|Romance|War,Maglajani,Bosnia and Herzegovina,93,48,23
+500,76,2024-06-25,2024-08-03,77,Children|Comedy|Fantasy,Kanungu,Uganda,7,72,26
+501,60,2025-01-03,2024-07-02,34,Action|Sci-Fi|IMAX,Kozhevnikovo,Russia,44,92,48
+502,55,2024-08-16,2025-02-14,86,Comedy,Wairiang,Indonesia,62,8,42
+503,41,2025-03-05,2024-12-25,78,Drama|Musical,Bjärred,Sweden,9,29,68
+504,74,2024-11-02,2024-10-23,75,Documentary,Guadalupe,Costa Rica,88,98,65
+505,41,2024-12-28,2024-10-15,61,Documentary,Balungao,Philippines,1,15,35
+506,56,2024-07-11,2024-12-12,11,Children|Drama|Mystery,Puerto La Cruz,Venezuela,28,27,43
+507,53,2025-05-07,2024-08-19,80,Comedy,Yaransk,Russia,89,93,34
+508,16,2024-09-11,2025-05-14,10,Comedy|Horror,Acao,Philippines,78,72,13
+509,79,2025-02-20,2024-08-02,55,Documentary,Amu Gulang Baolige,China,20,55,4
+510,66,2024-06-24,2024-07-30,42,Action|Crime|Sci-Fi|Thriller,Sparks,United States,3,77,61
+511,23,2024-12-08,2024-07-20,27,Action|Comedy,Kalajoki,Finland,47,67,65
+512,61,2024-10-30,2024-11-16,52,Comedy|Drama,Srednebelaya,Russia,65,10,81
+513,56,2024-09-07,2024-12-19,34,Sci-Fi|Thriller,Matsumoto,Japan,89,18,68
+514,89,2025-01-23,2024-12-25,44,Drama,Hausjärvi,Finland,14,11,60
+515,17,2025-03-05,2024-12-12,56,Comedy,Villa Ascasubi,Argentina,90,61,47
+516,52,2024-05-21,2025-01-27,25,Drama|Mystery|Thriller,Songshan,China,10,69,45
+517,52,2024-09-29,2024-10-20,66,Horror|Sci-Fi,Larvik,Norway,56,29,87
+518,39,2024-06-16,2024-08-30,37,Crime|Drama,Ualog,Philippines,99,61,62
+519,80,2024-10-29,2024-06-18,37,Adventure|Animation|Children,Yinji,China,22,100,47
+520,13,2024-08-17,2024-07-05,65,Comedy,Tongjiang,China,51,42,58
+521,6,2024-06-23,2024-12-18,31,Drama,Gaborone,Botswana,27,20,49
+522,92,2024-06-18,2024-12-08,93,Crime|Drama|Film-Noir|Romance,Moscow,Russia,8,47,36
+523,10,2024-07-20,2024-08-25,65,Children|Fantasy,Kesha,China,48,91,18
+524,85,2025-02-17,2025-02-12,17,Comedy,Ormstown,Canada,71,67,54
+525,5,2024-12-18,2025-04-02,54,Crime|Drama,Privodino,Russia,73,64,91
+526,37,2024-07-11,2024-12-15,35,Action|Comedy|Romance|Western,Yunmeng Chengguanzhen,China,70,41,76
+527,96,2024-09-12,2024-12-16,95,Animation|Children|Comedy|IMAX,Nagai,Japan,74,46,75
+528,32,2024-10-23,2025-01-13,32,Comedy|Crime,Rungis,France,35,43,45
+529,37,2024-08-03,2024-08-16,91,Comedy|Romance,Wanquan,China,23,3,80
+530,26,2024-09-19,2025-01-20,78,Drama,Cové,Benin,11,47,54
+531,82,2024-10-16,2024-10-21,78,Drama,Clamart,France,28,85,4
+532,69,2025-03-17,2025-03-16,62,Comedy,Trzebinia,Poland,72,77,62
+533,92,2024-11-12,2024-09-15,81,Western,Město Albrechtice,Czech Republic,25,14,65
+534,3,2024-09-02,2025-02-21,61,Comedy|Drama,Oroin Xibe,China,14,8,40
+535,79,2025-03-14,2024-09-09,27,Comedy|Drama,Lobatse,Botswana,69,59,12
+536,16,2025-02-22,2025-05-07,15,Mystery|Thriller,Santa Elena,Ecuador,21,62,43
+537,38,2024-09-25,2025-04-17,99,Drama,Yanghong,China,83,90,95
+538,29,2024-09-05,2025-05-11,66,Adventure|Romance|Western,Muang Phôn-Hông,Laos,50,100,12
+539,69,2024-08-01,2025-01-01,88,Comedy|Drama|Romance,Goussainville,France,64,91,1
+540,51,2025-02-02,2025-01-28,34,Action|Crime|Mystery,Retiro,Argentina,55,10,34
+541,28,2024-09-27,2024-09-08,63,Drama,Warren,United States,48,21,45
+542,35,2024-08-23,2024-09-14,80,Crime|Mystery|Thriller,Siverskiy,Russia,13,28,90
+543,6,2025-02-18,2024-08-20,53,Thriller,Surkhet,Nepal,24,89,39
+544,13,2024-07-12,2024-05-26,64,Crime|Thriller,Liufeng,China,3,43,24
+545,76,2025-01-04,2025-02-02,73,Documentary,Zwettl,Austria,83,62,32
+546,27,2024-10-28,2024-05-26,30,Comedy|Drama|War,Huagai,China,89,71,1
+547,64,2025-05-06,2025-03-20,41,Action|Adventure|Animation,Nantes,France,68,7,29
+548,43,2024-10-20,2024-08-19,5,Adventure|Comedy|Drama,Baiyun,China,41,61,32
+549,33,2025-04-16,2024-11-20,49,Drama,Cikarang,Indonesia,44,53,32
+550,70,2024-10-22,2025-01-14,35,Action|Drama,Mende,France,64,7,41
+551,9,2024-06-28,2024-07-09,64,Drama|Romance,Agbani,Nigeria,82,8,94
+552,32,2024-09-07,2025-02-19,74,Children|Musical|Sci-Fi,Tuanalepe,Indonesia,100,35,27
+553,27,2024-08-07,2025-02-13,58,Documentary,Valkeakoski,Finland,66,70,11
+554,99,2025-03-24,2024-09-18,50,Action|Drama|Sci-Fi,Petrozavodsk,Russia,27,74,70
+555,17,2025-02-22,2025-03-31,12,Documentary|IMAX,Górzno,Poland,45,66,86
+556,69,2025-05-09,2024-10-08,88,Drama,Mollepampa,Peru,97,21,89
+557,69,2024-11-20,2024-08-27,5,Adventure|Children|Comedy|Drama,城郊,China,83,26,77
+558,3,2025-01-13,2025-04-09,89,Crime|Drama,Opoczno,Poland,8,31,45
+559,69,2024-08-24,2024-10-14,2,Drama,Zamora,Ecuador,91,100,22
+560,92,2024-08-23,2025-01-09,74,Action|Adventure|Sci-Fi|Western,Arkalyk,Kazakhstan,80,88,65
+561,10,2024-08-01,2025-02-26,54,Fantasy|Sci-Fi,Santo Tomé,Argentina,52,1,72
+562,31,2024-10-01,2024-09-21,8,Comedy|Drama|Romance,Becerril,Philippines,72,87,30
+563,72,2025-04-26,2025-03-24,38,Crime|Drama|Mystery|Thriller,Ogden,United States,10,87,42
+564,35,2025-02-15,2024-10-27,22,Comedy|Drama|Romance,Kut Rang,Thailand,82,60,19
+565,18,2025-03-27,2024-08-02,83,Documentary,Capanema,Brazil,8,90,27
+566,92,2024-09-13,2024-08-13,69,Drama,Camias,Philippines,80,64,11
+567,15,2024-08-06,2024-06-11,46,Action|Sci-Fi,Shitang,China,63,14,3
+568,58,2025-03-27,2025-02-06,2,Crime|Drama,Maslog,Philippines,60,7,34
+569,19,2024-12-29,2025-05-16,53,Drama,Poá,Brazil,14,99,21
+570,81,2024-12-02,2024-06-29,31,Horror,Kruševica,Croatia,83,13,81
+571,49,2024-06-09,2024-09-08,61,Drama,Zolotkovo,Russia,91,21,75
+572,42,2024-10-08,2024-10-27,30,Crime|Mystery,Foros de Salvaterra,Portugal,2,44,67
+573,38,2024-11-05,2024-11-18,1,Comedy|Fantasy,Núi Sập,Vietnam,30,73,51
+574,4,2025-05-09,2025-04-27,43,Romance|Sci-Fi,Pacora,Panama,51,97,16
+575,19,2025-04-16,2024-09-16,73,Action|Adventure|Crime|Horror|Thriller,Qitai,China,95,76,68
+576,11,2025-02-16,2025-05-09,79,Comedy|Romance,Bato,Philippines,8,43,99
+577,63,2024-12-29,2024-07-10,24,Comedy|Romance,Blois,France,62,81,23
+578,7,2025-01-08,2024-06-30,68,Horror,Miribanteng,Indonesia,64,79,4
+579,5,2025-02-03,2024-05-23,70,Drama|War,Dowlatyār,Afghanistan,43,8,80
+580,35,2025-02-05,2024-10-28,53,Drama,Sabanagrande,Colombia,42,39,35
+581,86,2025-01-26,2024-12-01,87,Drama,Caçador,Brazil,18,96,73
+582,7,2025-02-19,2024-09-13,93,Drama,Shifo,China,74,42,4
+583,75,2024-11-22,2024-11-28,82,Drama,Consolación del Sur,Cuba,98,52,15
+584,20,2024-06-09,2024-09-23,78,Crime|Drama|Romance|Thriller,Chiguata,Peru,6,94,74
+585,15,2024-06-20,2025-01-15,91,Documentary,Millerovo,Russia,92,85,27
+586,38,2025-04-22,2024-06-18,34,Adventure|Drama|Romance|War,Guajiasi,China,69,60,55
+587,24,2024-11-09,2024-11-24,51,Crime|Drama|Thriller,Roissy Charles-de-Gaulle,France,44,16,24
+588,12,2024-06-06,2024-12-29,75,Comedy,Narew,Poland,89,96,83
+589,67,2024-09-28,2025-03-22,69,Comedy|Drama,Fox Creek,Canada,81,37,38
+590,30,2024-09-09,2024-11-05,95,Drama|Thriller,Taipingguan,China,19,67,85
+591,31,2024-08-14,2024-07-22,29,Documentary,Det Udom,Thailand,81,17,95
+592,29,2024-08-16,2025-01-09,84,Comedy,Paris 12,France,40,84,65
+593,83,2025-02-18,2024-05-20,97,Action|Crime|Drama|Romance,Panjir,Indonesia,15,26,69
+594,57,2024-10-28,2024-11-28,79,Drama,Qiujia,China,37,77,17
+595,37,2025-04-06,2025-01-26,39,Comedy|Drama,Makiv,Ukraine,34,59,80
+596,29,2024-09-24,2024-10-06,26,Adventure|Drama|Romance,Staritsa,Russia,74,19,87
+597,24,2025-04-03,2024-10-21,59,Drama|Romance,Dayton,United States,83,94,32
+598,32,2024-09-19,2024-12-09,29,Children|Comedy,Jati,Indonesia,56,89,8
+599,79,2025-04-21,2024-07-09,12,Comedy|Crime,Michałowice,Poland,24,33,80
+600,54,2024-12-21,2024-09-07,20,Drama,Põlva,Estonia,25,16,23
+601,71,2024-07-26,2025-03-29,67,Drama|Romance,Colonia Elisa,Argentina,6,68,97
+602,50,2024-09-16,2024-08-20,74,Comedy,Rybatskoye,Russia,75,36,88
+603,16,2025-03-08,2024-07-29,35,Documentary,Sv. Ana v Slov. Goricah,Slovenia,21,81,12
+604,4,2024-05-24,2024-09-26,68,Drama|Romance,Ipoh,Malaysia,78,1,40
+605,67,2024-10-07,2024-12-28,79,Drama,Liminka,Finland,2,23,26
+606,58,2024-09-14,2024-05-31,24,Crime|Drama|Thriller,Ornontowice,Poland,97,16,29
+607,2,2024-07-07,2024-05-28,12,Comedy,Bộc Bố,Vietnam,64,37,24
+608,27,2025-03-09,2024-06-27,40,Action|Adventure|Sci-Fi|IMAX,Cileles,Indonesia,88,52,30
+609,19,2025-04-11,2024-08-31,80,Action|Comedy|Thriller,Orël,Russia,8,55,90
+610,90,2025-03-09,2025-02-02,60,Crime|Drama|Romance|War,Onsala,Sweden,88,46,98
+611,59,2025-03-30,2025-01-18,82,Drama,Funga,Indonesia,76,97,32
+612,82,2024-11-07,2025-01-10,14,Drama,Kvänum,Sweden,11,5,48
+613,96,2024-11-16,2025-05-04,11,Drama|Romance,Apiaí,Brazil,46,62,80
+614,97,2024-08-17,2024-06-03,41,Adventure|Drama,Banatsko Karađorđevo,Serbia,91,84,49
+615,84,2024-09-16,2025-04-12,67,Adventure|Comedy|Mystery,Dobryanka,Russia,67,34,30
+616,41,2025-03-16,2024-11-25,44,Comedy|Romance,Bambous Virieux,Mauritius,95,21,8
+617,71,2025-01-06,2025-03-02,37,Mystery|Thriller,Guadalupe,Costa Rica,14,91,39
+618,94,2025-05-17,2024-10-07,54,(no genres listed),Isiolo,Kenya,95,8,93
+619,7,2024-07-07,2024-06-28,26,Drama|Thriller,Zográfos,Greece,45,23,44
+620,89,2025-03-07,2024-12-12,9,Drama,Bethanie,Namibia,32,22,35
+621,73,2024-10-14,2024-09-09,35,Drama,Ten’gushevo,Russia,21,31,32
+622,90,2025-02-21,2024-08-31,100,Drama,Dongkan,China,87,44,93
+623,46,2024-07-12,2025-05-13,10,Comedy,Dongpu,China,14,10,25
+624,100,2024-06-05,2025-02-17,86,Horror|Mystery|Thriller,Ourozinho,Portugal,62,62,88
+625,86,2024-06-22,2025-04-19,40,Action|Sci-Fi,Atibaia,Brazil,57,88,15
+626,3,2025-01-23,2024-06-11,76,Drama,Saryaghash,Kazakhstan,86,1,95
+627,55,2025-01-02,2024-05-28,83,Drama|War,Divača,Slovenia,51,77,20
+628,40,2025-03-12,2024-09-09,77,Drama|War,Göteborg,Sweden,11,30,73
+629,81,2024-10-28,2024-06-10,32,Drama|Fantasy,Zhangfeng,China,6,34,67
+630,23,2025-03-21,2024-11-04,40,Comedy,Joubb Jannîne,Lebanon,26,97,21
+631,37,2025-05-09,2025-02-12,36,Drama|Romance,Xingshou,China,82,25,40
+632,89,2025-05-07,2025-03-31,77,Animation|Children,La Unión,Colombia,84,9,2
+633,96,2024-06-24,2025-01-26,40,Comedy|Drama,Kuanfeu,Indonesia,5,44,27
+634,100,2025-03-06,2024-11-02,58,Comedy,Xinbao,China,1,44,54
+635,46,2024-07-26,2024-07-11,60,Drama|Thriller,Montes Claros,Brazil,71,27,84
+636,42,2025-02-15,2024-11-18,31,Comedy|Drama,Ḑubāh,Yemen,79,49,89
+637,98,2024-05-24,2024-10-21,18,Action|Adventure|Animation|Sci-Fi,Pushkinskiye Gory,Russia,13,65,57
+638,83,2025-04-09,2025-01-03,47,Action,Gakem,Nigeria,39,56,31
+639,90,2024-09-02,2024-07-07,64,Documentary,Haiyanmiao,China,47,35,59
+640,64,2024-07-09,2025-04-29,40,Horror|Sci-Fi,Youssoufia,Morocco,99,17,70
+641,82,2024-11-14,2025-01-24,65,Action|Adventure|Comedy|Fantasy,Shimorskoye,Russia,53,53,14
+642,51,2024-08-27,2024-11-10,28,Comedy|Drama,Akora,Pakistan,44,90,37
+643,16,2024-08-08,2025-03-08,55,Action|Thriller,Chongwen,China,92,5,19
+644,92,2024-06-02,2025-02-07,89,Comedy,Ning’an,China,20,28,8
+645,21,2025-01-24,2024-08-22,90,Fantasy,Geyuan,China,98,81,76
+646,43,2024-07-17,2024-08-22,6,Comedy|Sci-Fi,Xingzi,China,86,13,38
+647,3,2024-11-12,2025-05-15,83,Drama,Shinan,China,93,97,4
+648,51,2025-03-19,2024-11-18,67,Documentary,Whitegate,Ireland,50,37,62
+649,14,2024-06-16,2024-10-06,59,Comedy|Fantasy,Thị Trấn Việt Quang,Vietnam,67,58,55
+650,18,2025-03-24,2025-04-07,35,Comedy|Drama|Romance,El Calafate,Argentina,60,43,61
+651,31,2025-01-20,2024-12-26,15,Drama|Romance,Almeirim,Brazil,76,98,39
+652,60,2024-12-25,2025-05-11,69,Adventure|Children|Comedy|Drama,Novopokrovka,Russia,75,85,22
+653,69,2024-08-31,2024-12-17,50,Action|Adventure|Comedy|Crime|Thriller,Kolonnawa,Sri Lanka,7,59,49
+654,1,2024-10-04,2024-08-11,47,Drama|Romance,Druzhba,Ukraine,62,25,46
+655,64,2025-03-13,2024-08-22,39,Comedy|Drama,Mizi,China,72,31,41
+656,41,2025-02-24,2024-11-04,99,Action|Adventure|Children|Comedy,Kouzhen,China,62,6,10
+657,35,2025-04-25,2024-08-09,63,Drama,Tijucas,Brazil,34,37,27
+658,79,2025-04-21,2024-07-21,37,Documentary,Ursk,Russia,67,59,73
+659,24,2024-08-30,2024-11-09,33,Horror,Sawahan,Indonesia,6,89,89
+660,62,2025-02-09,2024-07-01,28,Action|Adventure|Fantasy|Sci-Fi,Bintang,Indonesia,5,70,11
+661,32,2024-06-09,2025-04-01,45,Comedy,Marmashen,Armenia,90,61,27
+662,54,2024-09-16,2025-02-17,46,Comedy,Kota Bharu,Malaysia,55,83,92
+663,91,2024-10-12,2024-10-19,81,Crime|Drama,Vetrino,Bulgaria,99,63,31
+664,2,2024-09-27,2024-08-20,6,Drama,Boissy-Saint-Léger,France,67,31,44
+665,94,2024-12-04,2024-11-26,70,Crime|Mystery|Thriller,Vassouras,Brazil,74,32,80
+666,19,2024-11-11,2024-10-13,72,Drama,Datong,China,64,7,53
+667,13,2024-09-11,2024-06-23,28,Comedy,Tegalsari,Indonesia,64,55,37
+668,90,2025-05-06,2024-07-20,99,Adventure|Drama,San Antonio,Mexico,98,31,5
+669,26,2024-12-19,2024-10-30,27,Drama|War,Kampinos,Poland,69,58,64
+670,54,2025-02-08,2025-04-29,6,Drama,Santa Fe,Mexico,17,77,58
+671,2,2024-10-10,2024-08-18,28,Crime|Drama|Romance,Makato,Philippines,4,48,87
+672,8,2024-11-20,2025-02-11,39,Drama,Salvacion,Philippines,61,82,52
+673,70,2025-01-22,2025-03-03,31,Drama|Romance,Sanjiao,China,57,50,74
+674,46,2024-06-11,2025-01-21,91,Comedy|Romance,Béboto,Chad,41,53,93
+675,15,2024-11-12,2024-11-06,25,Comedy|Crime,Orzesze,Poland,33,100,31
+676,17,2024-09-18,2024-09-21,91,Children|Fantasy|Musical|Romance,Kiuruvesi,Finland,60,50,61
+677,64,2024-12-07,2025-01-17,72,Thriller,Gyumri,Armenia,34,70,52
+678,11,2025-03-31,2024-07-04,6,Animation|Comedy,Yedun,China,7,39,65
+679,69,2025-03-14,2025-01-09,67,Drama,Sevilla,Spain,82,9,2
+680,36,2024-07-14,2024-12-18,71,Adventure|Crime|Horror,Douentza,Mali,90,13,8
+681,87,2024-08-16,2024-07-12,20,Children|Comedy,Banjarjo,Indonesia,45,44,70
+682,10,2025-01-16,2025-03-07,23,Comedy|Drama|Musical|Romance,Iaçu,Brazil,54,37,10
+683,76,2024-11-30,2024-09-26,81,Comedy|Drama|Romance,Ciénaga de Oro,Colombia,15,59,21
+684,27,2025-05-13,2025-03-06,5,Drama,Aubenas,France,31,29,72
+685,34,2025-03-29,2024-12-18,46,Comedy|Drama,Burmakino,Russia,61,23,23
+686,79,2024-09-16,2024-07-02,39,Comedy|Drama,Wiśniewo,Poland,17,28,81
+687,50,2024-12-05,2024-06-10,2,Drama|Fantasy,Krechevitsy,Russia,34,70,32
+688,96,2024-09-14,2025-04-12,47,Drama,Gunungsari,Indonesia,90,82,82
+689,49,2025-05-12,2024-07-27,55,Horror|Thriller,Aranhas,Portugal,9,48,37
+690,54,2025-04-04,2025-02-02,29,Documentary,Marseille,France,66,73,32
+691,69,2024-08-20,2024-07-17,14,Crime|Mystery|Thriller,Naranjal,Paraguay,44,20,70
+692,28,2025-02-26,2025-04-24,28,Documentary,Shisui,Japan,7,78,80
+693,96,2025-01-05,2024-10-02,15,Action|Adventure|Horror|Thriller,Pacajus,Brazil,78,63,57
+694,14,2024-10-23,2024-10-26,16,Action|Crime|Mystery|Thriller,Naval,Philippines,94,24,33
+695,52,2024-07-04,2024-10-16,52,Drama,Belize City,Belize,24,84,50
+696,80,2025-03-13,2025-02-19,92,Comedy|Drama,Kaleybar,Iran,4,39,30
+697,67,2025-04-12,2024-10-29,39,Comedy,Lluidas Vale,Jamaica,93,49,98
+698,47,2024-07-05,2025-03-05,44,Adventure|Animation|Children,Jiezi,China,6,99,14
+699,10,2024-05-31,2025-04-23,2,Action|Comedy|Crime|Romance,Taiping,Malaysia,64,7,60
+700,10,2024-10-24,2024-11-20,12,Drama,Itaocara,Brazil,100,93,11
+701,59,2024-12-15,2024-07-25,90,Comedy,Xuelu,China,42,45,71
+702,86,2025-02-17,2024-09-23,13,Sci-Fi|Thriller,Mondragon,Philippines,63,54,78
+703,32,2025-01-01,2024-06-12,48,Adventure|Western,Ngeru,Indonesia,53,67,28
+704,30,2024-10-26,2024-06-02,29,Comedy,Forquilhinha,Brazil,5,49,34
+705,68,2024-06-18,2024-09-18,11,Drama|Romance,Bonavista,Canada,1,49,87
+706,93,2024-12-10,2025-02-10,33,Romance|War,Muarabuliti,Indonesia,37,44,17
+707,26,2024-06-01,2024-07-18,88,Drama|Romance,Marbel,Philippines,85,53,46
+708,80,2024-09-17,2025-01-08,22,Comedy|Romance,Pravda,Russia,98,46,44
+709,45,2025-04-20,2025-03-07,92,Drama,Vayk’,Armenia,5,35,92
+710,97,2024-06-16,2024-12-26,51,Drama|Romance,Yafan,China,32,96,62
+711,77,2024-08-03,2024-08-23,94,Comedy|Romance,Torrijos,Philippines,19,9,32
+712,94,2025-04-01,2024-08-21,26,Drama,Anahuac,Mexico,40,6,76
+713,62,2025-05-03,2024-08-01,65,Action|Adventure,San Mateo,Philippines,78,11,15
+714,74,2025-03-01,2024-08-23,54,Documentary,Dake,China,42,18,78
+715,71,2025-03-04,2024-11-01,6,Action|Comedy|Crime,Laszki,Poland,24,71,54
+716,19,2024-07-20,2024-09-29,17,Crime|Horror|Mystery|Thriller,Pasvalys,Lithuania,64,21,12
+717,94,2024-06-08,2024-05-20,65,Action|Adventure|Comedy|Fantasy,Cojutepeque,El Salvador,49,8,78
+718,61,2024-09-18,2025-04-02,75,Action|Crime|Drama|Thriller,Duba-Yurt,Russia,89,13,24
+719,63,2024-12-14,2024-06-01,36,Action|Fantasy|Sci-Fi,Figueira,Portugal,59,84,36
+720,95,2024-10-18,2024-10-22,61,Comedy|Western,Ivot,Russia,60,97,60
+721,79,2025-02-23,2024-07-12,14,Drama,Saltsjö-Boo,Sweden,90,48,14
+722,21,2025-01-18,2024-07-20,70,Horror,Sidem,Indonesia,98,23,45
+723,64,2025-03-07,2024-11-24,47,Drama,Rutana,Burundi,3,89,60
+724,44,2025-02-11,2024-05-27,17,Drama,Subrag,China,35,79,67
+725,66,2025-04-20,2024-07-19,95,Drama,Gorzyce,Poland,84,3,62
+726,96,2025-01-07,2024-12-17,84,Comedy,Venlo,Netherlands,8,5,20
+727,72,2024-06-19,2025-03-11,90,Comedy|Drama,Nanxing,China,81,8,50
+728,44,2024-12-26,2025-03-01,24,Drama|Film-Noir|Mystery,San José de Barlovento,Venezuela,92,24,41
+729,20,2025-03-29,2025-02-03,4,Comedy,Ipueiras,Brazil,31,100,99
+730,75,2025-01-29,2025-02-20,48,Drama,Fudian,China,70,21,64
+731,1,2024-12-02,2024-10-22,1,Action|Adventure|Comedy,Jocón,Honduras,27,94,39
+732,68,2024-11-30,2024-10-11,46,Adventure|Fantasy|Sci-Fi,Newport News,United States,39,63,25
+733,94,2024-07-05,2025-02-16,44,Documentary,Pailles,Mauritius,86,10,10
+734,68,2024-06-24,2024-12-29,76,Children|Drama,Anqing,China,54,86,58
+735,71,2025-02-01,2025-04-27,78,Drama,Yantang,China,62,33,24
+736,74,2024-07-31,2024-07-27,96,Crime|Thriller,Catalina,Canada,69,25,12
+737,54,2025-04-20,2024-10-14,11,Action|Adventure|Children|Comedy,Lingdong,China,16,99,39
+738,3,2025-02-26,2024-12-26,87,Drama,Manturovo,Russia,14,20,77
+739,64,2024-07-30,2024-11-24,34,Comedy|Drama,Tingping,China,84,22,27
+740,96,2025-01-12,2024-08-28,100,Comedy|Thriller,Yên Thành,Vietnam,64,94,59
+741,71,2024-12-02,2024-09-20,41,Action|Adventure|Fantasy,Jaboatão dos Guararapes,Brazil,10,44,12
+742,70,2025-02-08,2025-01-26,47,Comedy|Drama,Changning,China,95,31,17
+743,34,2024-12-01,2024-08-27,81,Drama|Romance,Harstad,Norway,30,21,10
+744,53,2025-04-03,2024-09-24,85,Action|Adventure|Comedy|Western,Viñales,Cuba,56,20,2
+745,16,2024-08-01,2024-06-14,23,Documentary,Capissayan Sur,Philippines,75,94,21
+746,62,2024-06-17,2024-09-30,37,Horror|Sci-Fi|Thriller,Punta Gorda,United States,35,22,77
+747,5,2024-10-26,2025-01-21,78,Action|Adventure|Drama|Western,Yongchuan,China,42,82,7
+748,48,2024-06-22,2025-01-26,13,Documentary,Kavadarci,Macedonia,22,83,21
+749,43,2024-11-20,2025-01-31,14,Action|Thriller,Pánormos,Greece,72,65,8
+750,79,2025-01-18,2024-12-31,5,Western,Bedayu,Indonesia,6,11,32
+751,75,2025-04-11,2024-08-30,1,Comedy|Drama,Ansheng,China,40,72,29
+752,68,2024-08-18,2024-05-25,25,Documentary,Jiuzhou,China,28,69,89
+753,35,2024-06-25,2024-12-29,68,Comedy|Horror|Sci-Fi,Dom Pedrito,Brazil,63,95,61
+754,45,2024-08-04,2024-11-17,78,Documentary,Greenland,Barbados,82,85,61
+755,3,2025-05-10,2024-11-23,74,Comedy,Bromma,Sweden,12,49,49
+756,59,2024-07-26,2024-12-05,24,Action|Crime,Zhuanqukou,China,73,23,73
+757,97,2025-02-24,2024-05-23,39,Action|Adventure|Thriller,Polazna,Russia,10,56,98
+758,71,2025-04-04,2025-02-27,2,Horror|Thriller,Hebian,China,52,91,14
+759,17,2025-03-14,2024-10-07,87,Film-Noir|Thriller,Paramaribo,Suriname,84,88,2
+760,62,2024-09-09,2024-12-10,71,Drama|Horror|Musical|Thriller,Shīeli,Kazakhstan,87,18,83
+761,32,2025-01-12,2024-11-27,23,Drama|Mystery|Thriller,Mounlapamôk,Laos,46,44,58
+762,28,2025-04-27,2025-01-26,92,Horror|Thriller,Bretaña,Peru,55,64,68
+763,70,2025-04-09,2024-08-10,7,Comedy,Santo Amaro,Brazil,29,89,50
+764,51,2024-08-04,2025-04-06,80,Horror|Romance|Thriller,Mosjøen,Norway,28,87,16
+765,56,2024-05-21,2024-09-24,24,Drama,Xiaxihao,China,17,81,84
+766,8,2024-09-26,2025-01-27,54,Crime,Sobreiro,Portugal,87,19,9
+767,18,2024-06-11,2025-04-09,38,Crime|Film-Noir|Mystery,Quebo,Guinea-Bissau,35,53,4
+768,9,2024-07-07,2024-12-28,20,Drama|Romance,Laramate,Peru,21,4,82
+769,54,2025-01-08,2024-12-15,31,Comedy,Goseong,South Korea,9,62,100
+770,74,2024-08-28,2025-03-31,33,Adventure|Drama|Fantasy|Romance|IMAX,Xihuachi,China,88,18,53
+771,35,2024-08-29,2024-10-30,97,Documentary,Sumbergedong,Indonesia,7,72,53
+772,37,2025-03-19,2024-06-18,97,Comedy|Sci-Fi,Daxbet,Uzbekistan,5,34,7
+773,21,2024-08-15,2024-06-05,37,Comedy|Drama|Fantasy|Sci-Fi,Puerto San José,Guatemala,87,36,56
+774,54,2025-04-28,2024-07-15,99,Comedy|Drama,Lakota,Ivory Coast,52,3,90
+775,64,2025-02-01,2025-05-07,29,Western,Boro Utara,Indonesia,6,11,57
+776,8,2025-02-02,2025-05-12,60,Drama|War,Mangusu,Philippines,62,11,31
+777,55,2025-01-28,2024-05-31,86,Comedy|Sci-Fi,Natonin,Philippines,45,41,93
+778,1,2024-06-12,2024-06-12,54,Comedy|Musical,Ōnojō,Japan,63,8,79
+779,99,2025-01-24,2025-03-29,33,Drama,Livramento do Brumado,Brazil,30,61,81
+780,10,2024-08-20,2024-09-13,73,Adventure|Children|Comedy,Menanga,Indonesia,86,98,98
+781,85,2025-03-28,2024-10-10,82,Comedy|Horror,Krajan,Indonesia,96,43,62
+782,59,2025-01-05,2024-09-17,71,Comedy|Romance,Gangkou,China,29,7,14
+783,55,2024-12-04,2025-02-23,5,Drama|Mystery|Thriller,San Miguel,Mexico,26,28,20
+784,38,2024-09-29,2024-10-16,14,Comedy,Salakuray,Indonesia,82,15,34
+785,69,2024-06-20,2025-05-08,30,Action|Adventure|Comedy|Western,Krugersdorp,South Africa,81,89,67
+786,50,2024-12-06,2025-03-22,2,Comedy,Bech,Luxembourg,93,64,100
+787,62,2025-03-30,2025-02-27,3,Action|Thriller|War,Seixo da Beira,Portugal,84,45,52
+788,65,2025-01-01,2024-06-03,92,Comedy,Ticaco,Peru,43,96,50
+789,5,2024-05-23,2025-02-17,34,Action|Crime|Drama,Göteborg,Sweden,94,92,24
+790,33,2024-08-13,2024-08-22,2,Drama|Romance,Żarów,Poland,79,37,9
+791,55,2024-09-09,2024-05-24,70,Comedy|Drama,Yedogon,Russia,6,72,94
+792,2,2025-01-11,2024-12-29,62,Drama|Thriller,Zephyrhills,United States,66,61,64
+793,100,2025-01-31,2024-10-14,82,Comedy,Carahue,Chile,20,60,73
+794,86,2025-03-29,2025-04-05,42,Horror,Arnprior,Canada,12,61,57
+795,67,2024-07-23,2024-12-23,66,(no genres listed),Quimper,France,54,72,22
+796,86,2025-03-05,2024-11-08,100,Documentary,Gaozhuang,China,73,57,4
+797,38,2025-04-09,2025-02-05,32,Drama,Baitang,China,84,2,27
+798,36,2024-12-15,2025-04-29,44,Drama,Gaotian,China,8,63,10
+799,60,2024-09-19,2024-07-08,99,Drama|Thriller,Baoshan,China,10,54,97
+800,36,2024-08-24,2024-07-21,46,Action|Adventure|Animation,Purabaya,Indonesia,22,55,71
+801,62,2024-12-26,2024-11-20,1,Action|Comedy,Gayamsari,Indonesia,3,67,63
+802,5,2025-02-12,2025-03-03,31,Drama,Ondangwa,Namibia,81,41,16
+803,32,2025-04-11,2024-08-23,17,Western,Yaoundé,Cameroon,26,17,3
+804,48,2025-04-02,2025-04-13,2,Comedy,Czarne,Poland,53,35,18
+805,78,2024-12-17,2025-01-27,70,Comedy|Drama,Shangyong,China,3,34,21
+806,5,2024-12-30,2024-11-03,76,Comedy|Drama|Romance,San Lucas Tolimán,Guatemala,3,23,27
+807,98,2024-07-21,2024-11-06,10,Comedy|Thriller,Mariquita,Colombia,56,16,33
+808,82,2024-11-21,2024-07-29,37,Drama,Dorogobuzh,Russia,85,74,10
+809,83,2024-11-07,2024-10-18,96,Children|Drama,Donghui,China,74,49,65
+810,33,2025-01-18,2025-03-15,41,Comedy|Drama,Yiyang,China,54,51,44
+811,31,2025-05-05,2024-09-28,22,Drama,Meixi,China,8,50,5
+812,83,2025-03-21,2024-05-21,95,Documentary,Stockholm,Sweden,75,15,94
+813,14,2025-05-03,2024-12-20,83,Comedy|Drama|Romance,Vila Nova,Portugal,22,8,30
+814,32,2024-08-22,2025-01-08,49,Adventure|Children|Fantasy,Angao,China,19,63,81
+815,28,2024-10-15,2024-06-18,53,Musical|Romance,Progër,Albania,97,29,21
+816,16,2025-05-08,2025-01-18,71,Comedy|Drama,Zhaike,China,82,25,64
+817,63,2024-10-02,2025-04-10,67,Documentary|Drama,Kamwenge,Uganda,34,74,31
+818,18,2024-06-12,2025-01-14,62,Comedy,Criação Velha,Portugal,32,38,39
+819,85,2024-07-30,2025-01-15,96,Comedy,Biguaçu,Brazil,83,80,10
+820,87,2024-12-08,2025-04-22,35,Drama|Mystery|Romance,Rivera,Uruguay,75,74,75
+821,49,2025-01-09,2024-07-02,93,Thriller,Pérama,Greece,1,97,43
+822,2,2024-07-06,2024-06-20,25,Comedy,Harembo,Comoros,63,75,42
+823,77,2024-10-27,2024-12-18,95,Action|Adventure,Cigaras,Philippines,88,77,52
+824,75,2025-04-05,2025-04-06,92,Drama,Oslo,Norway,33,98,97
+825,69,2024-08-19,2025-04-07,4,Crime|Drama,Chimbas,Argentina,100,17,18
+826,1,2025-01-03,2024-06-21,65,Comedy|Western,Mandalay,Myanmar,5,12,37
+827,32,2024-07-16,2024-10-22,47,Comedy|Crime|Mystery,Watrous,Canada,97,46,18
+828,26,2024-07-15,2024-06-25,86,Drama|Romance|Thriller,Sao Hai,Thailand,6,32,19
+829,76,2025-02-12,2024-10-06,70,Adventure|Children|Fantasy,Sakhnīn,Israel,79,5,71
+830,31,2024-10-14,2025-05-02,66,Adventure|Animation|Comedy,Coratatal,Indonesia,90,24,83
+831,59,2025-04-15,2024-10-03,45,Drama,Gýtheio,Greece,94,18,2
+832,48,2024-09-17,2025-03-16,58,Action|Horror|Thriller,Gevgelija,Macedonia,53,81,59
+833,40,2024-08-25,2025-03-23,79,Drama,Wangjiahe,China,94,22,14
+834,77,2025-04-06,2024-10-25,78,Comedy|Thriller,Rennes,France,51,56,68
+835,85,2024-07-06,2024-10-24,21,Action|Comedy,Heling,China,42,92,80
+836,1,2024-12-16,2024-08-19,17,Action|Comedy,Koh Tao,Thailand,67,2,98
+837,89,2024-05-27,2024-06-24,39,Documentary,Denver,United States,18,18,42
+838,88,2024-10-21,2025-05-09,43,Comedy|Romance,Qingzhou,China,50,28,60
+839,95,2024-09-14,2024-06-23,1,Action|Drama|War,Provatás,Greece,91,91,68
+840,83,2024-08-18,2024-08-09,38,Comedy|Romance,Bolong,Philippines,26,87,89
+841,16,2025-02-17,2024-06-24,45,Action|Western,Sosnovoborsk,Russia,73,63,10
+842,24,2024-09-11,2024-09-09,38,Action,Batawa,Indonesia,78,83,4
+843,82,2025-04-04,2024-11-12,4,Drama,Santo Domingo Oeste,Dominican Republic,89,52,27
+844,40,2024-07-07,2025-02-22,48,Drama|Thriller,Mabugang,China,66,87,27
+845,62,2024-05-26,2024-05-23,23,Action|Sci-Fi|Thriller,Santa Cruz del Sur,Cuba,11,84,59
+846,76,2025-03-30,2024-07-15,45,Drama,Paltashaco,Peru,84,16,83
+847,92,2024-09-08,2025-03-13,48,Horror,Pustá Polom,Czech Republic,58,62,63
+848,84,2024-07-08,2024-06-08,53,Drama,Ecroignard,Mauritius,99,14,62
+849,51,2025-03-20,2024-08-25,1,Drama,Kamaris,Armenia,82,12,97
+850,93,2025-02-20,2025-03-15,19,Children|Comedy,San Francisco,United States,50,49,94
+851,8,2025-03-26,2025-02-22,97,Comedy,Solor,Indonesia,9,50,57
+852,24,2025-02-20,2024-11-13,55,Documentary,Malawa,Philippines,28,75,37
+853,38,2024-11-15,2024-09-05,21,Drama|War,Loimaan Kunta,Finland,21,22,53
+854,34,2024-12-31,2024-06-19,50,Comedy,Corral,Chile,88,97,93
+855,6,2024-08-03,2024-11-05,23,Animation|Drama|Romance|Sci-Fi,Bukavu,Democratic Republic of the Congo,97,51,37
+856,26,2025-04-05,2025-04-17,16,Action|Crime|Drama,La Esperanza,Peru,70,72,63
+857,25,2024-12-13,2025-04-23,30,Comedy|Drama|Musical|Mystery,Guadalupe,Mexico,27,47,70
+858,77,2024-08-29,2025-01-30,16,Drama|Musical|Romance,Uurainen,Finland,45,84,25
+859,63,2024-07-25,2025-05-03,57,Drama|Romance,Kiszkowo,Poland,86,79,14
+860,11,2025-03-17,2025-01-27,61,Documentary,Shiniujiang,China,48,81,25
+861,56,2025-04-19,2024-10-11,69,Mystery|Thriller,Santa María de Jesús,Guatemala,16,92,32
+862,84,2024-07-31,2024-08-20,53,Drama|War,Port Harcourt,Nigeria,51,35,56
+863,25,2024-05-25,2024-10-09,74,Comedy|Fantasy|Romance,Waipukang,Indonesia,20,92,65
+864,56,2024-08-10,2024-05-25,98,Drama,Heimahe,China,59,89,34
+865,91,2024-06-16,2025-02-05,26,Drama,Ḩabūr,Yemen,95,53,19
+866,60,2024-05-22,2024-09-10,29,Documentary|Drama|War,Maesan,Indonesia,20,57,46
+867,26,2025-01-19,2025-04-07,34,Drama,Liqiao,China,78,65,99
+868,23,2024-09-10,2025-02-18,97,Comedy,Sievi,Finland,62,87,44
+869,80,2024-05-19,2025-04-26,8,Drama,Jiuzhen,China,25,30,100
+870,60,2025-04-06,2024-11-12,40,Drama,Kaabong,Uganda,6,9,57
+871,6,2024-07-14,2025-05-13,49,Drama,Aourir,Morocco,29,61,44
+872,48,2024-09-29,2025-03-28,64,Comedy,Sunzhuang,China,55,34,48
+873,99,2024-07-21,2025-05-06,60,Drama|Romance,Hexi,China,36,95,39
+874,43,2025-01-29,2024-07-20,81,Documentary,Jinxiu,China,84,38,54
+875,74,2024-06-19,2025-03-18,72,Action|Animation|Children,Piketberg,South Africa,16,18,91
+876,96,2025-02-20,2025-03-30,37,Comedy|Crime,Campo Largo,Brazil,47,87,69
+877,19,2025-01-12,2025-04-25,64,Action|Adventure|Sci-Fi,Shangzhang,China,32,30,2
+878,45,2024-09-23,2024-11-04,25,Drama|Musical,Wolomarang,Indonesia,93,84,18
+879,98,2025-04-10,2024-08-31,78,Comedy|Drama,Maastricht,Netherlands,40,67,55
+880,23,2024-06-15,2024-12-27,22,Action|Adventure|Children|Fantasy,Wuyang,China,86,19,24
+881,100,2024-09-24,2024-11-22,55,Drama,Kuala Terengganu,Malaysia,3,18,38
+882,90,2025-01-21,2024-09-16,6,Comedy|Drama|Thriller,Delodpeken,Indonesia,12,58,85
+883,30,2025-02-10,2024-10-05,50,Western,Chicago,United States,67,42,63
+884,24,2024-06-21,2024-07-25,19,Adventure|Documentary,Bộc Bố,Vietnam,10,61,81
+885,53,2024-09-13,2024-06-28,20,Comedy,La Ensenada,Chile,84,36,23
+886,85,2024-10-05,2024-10-29,9,Children|Comedy,Kaédi,Mauritania,16,14,2
+887,86,2025-03-19,2024-12-07,35,Drama|War,Aleksandrovsk-Sakhalinskiy,Russia,72,41,38
+888,65,2024-07-17,2025-02-12,49,Documentary,La Guata,Honduras,27,11,19
+889,45,2024-10-30,2024-07-22,21,Comedy,Maasin,Philippines,30,82,19
+890,24,2025-01-27,2025-03-20,28,Comedy|Documentary|Romance,Nachalovo,Russia,81,97,8
+891,27,2025-03-10,2024-07-25,47,Action|Sci-Fi|Thriller,Longxi,China,83,42,66
+892,95,2024-12-02,2024-09-24,9,Crime|Documentary,Dulce Nombre de Culmí,Honduras,41,50,81
+893,19,2024-12-19,2024-08-28,36,Children|Comedy,Nelipyno,Ukraine,9,2,74
+894,50,2024-08-21,2024-11-04,95,Action|Drama,Ludvika,Sweden,55,86,93
+895,24,2024-10-04,2024-10-14,77,Comedy,Masaran,Indonesia,69,62,71
+896,26,2025-04-25,2024-07-03,26,Drama,Zala,China,93,24,97
+897,77,2024-10-17,2024-06-13,48,Comedy,Sidamukti,Indonesia,36,24,9
+898,56,2024-09-11,2025-03-09,32,Children|Drama,Pakong,Indonesia,82,58,1
+899,47,2025-03-04,2024-10-02,49,Crime|Drama,Manique de Baixo,Portugal,26,82,97
+900,5,2025-01-24,2024-05-24,85,Comedy|Romance,Dordrecht,Netherlands,89,4,46
+901,86,2024-09-01,2025-03-27,68,Drama,Candelaria,Philippines,26,3,98
+902,48,2024-07-21,2025-01-29,100,Documentary,Kučevo,Serbia,82,95,33
+903,73,2025-03-06,2024-06-03,12,Comedy|Drama,Dammarie-les-Lys,France,28,25,21
+904,1,2024-07-28,2024-11-27,7,Drama,Lekas,Albania,29,84,2
+905,15,2024-06-30,2024-08-04,70,Comedy|Romance,Guxi,China,49,21,60
+906,29,2025-01-27,2025-04-12,23,Comedy,Kalidawe,Indonesia,22,71,67
+907,62,2025-04-01,2024-06-27,9,Action|Comedy|Crime|Drama,Wola Jachowa,Poland,86,20,90
+908,26,2025-05-03,2024-08-26,3,Documentary|Musical,Stepojevac,Serbia,27,73,72
+909,88,2024-11-02,2025-03-30,58,Animation|Comedy,Fonte do Feto,Portugal,76,86,16
+910,18,2025-03-30,2025-02-07,11,Documentary,Sumaré,Brazil,82,72,68
+911,11,2024-09-19,2025-02-04,11,Action|Drama,Caburan,Philippines,83,76,8
+912,46,2025-04-04,2024-05-20,55,Comedy|Documentary|Drama,Dampit Satu,Indonesia,70,64,28
+913,73,2025-01-27,2025-03-12,7,Drama,Laozhuang,China,90,42,96
+914,79,2024-12-30,2024-08-25,41,Action|Animation|Comedy|Crime|Drama|Mystery|Romance|Thriller,Fangshan,China,33,61,28
+915,9,2024-07-07,2024-07-05,4,Comedy,Guishan,China,6,63,18
+916,76,2025-01-15,2024-08-13,43,Comedy|Drama|Romance,Wanfu,China,93,34,11
+917,26,2025-04-29,2024-08-21,61,Comedy|Drama,Mlangali,Tanzania,7,46,32
+918,40,2025-01-30,2024-10-03,5,Comedy,Canalete,Colombia,21,47,5
+919,92,2024-07-24,2024-10-18,84,Children|Comedy,Heqiao,China,36,92,11
+920,81,2024-08-31,2024-08-27,30,Children|Drama,Jermenovci,Serbia,31,97,16
+921,53,2024-12-06,2024-08-07,70,Adventure|Comedy,Huanghai,China,55,39,64
+922,44,2025-05-14,2025-03-20,93,Action|Drama,Mariestad,Sweden,94,47,12
+923,44,2025-03-19,2024-07-09,91,Drama|Romance,East Angus,Canada,99,84,24
+924,21,2025-01-23,2024-07-31,70,Action|Romance|Thriller,Bugis,Indonesia,40,9,35
+925,86,2025-01-30,2024-08-17,34,Comedy|Drama,Yangjiao,China,39,66,13
+926,97,2025-01-09,2024-12-27,1,Action|War|Western,Nandulehe,China,68,78,76
+927,22,2024-11-25,2024-06-10,98,Adventure|Animation|Children|Fantasy,Rokycany,Czech Republic,62,70,59
+928,82,2024-09-28,2024-07-16,43,Comedy|Romance,Fontenay-sous-Bois,France,59,24,59
+929,66,2024-11-03,2024-10-26,63,Western,Kainan,Japan,15,81,31
+930,30,2025-04-12,2024-11-17,25,Action|Crime|Thriller,Berezayka,Russia,9,39,46
+931,81,2024-12-15,2024-10-20,47,Documentary,Iperu,Nigeria,48,74,11
+932,73,2024-10-10,2024-05-30,24,Action|Comedy|Crime|Thriller,Shanghe,China,58,38,9
+933,89,2024-10-31,2024-12-15,48,Comedy,General Manuel J. Campos,Argentina,45,95,8
+934,61,2024-11-11,2024-12-10,42,Comedy|Crime|Drama,Olopa,Guatemala,24,25,59
+935,58,2024-05-22,2024-08-04,6,Drama,Shenwan,China,32,55,8
+936,27,2025-05-02,2024-06-12,39,Drama,Ljupina,Croatia,3,28,26
+937,54,2025-03-03,2025-05-09,65,Documentary,Ban Ko Lan,Thailand,62,57,83
+938,55,2025-04-20,2024-09-25,6,Drama|Romance,Rosetta,Egypt,69,37,46
+939,90,2024-07-08,2024-11-01,26,Drama|Romance|Thriller,Yudaikelike,China,73,78,43
+940,29,2024-11-10,2024-12-23,53,Crime|Drama|Thriller,Nguékhokh,Senegal,6,71,75
+941,8,2025-02-04,2024-11-26,2,Action|Drama|Thriller,Järfälla,Sweden,20,94,30
+942,24,2024-06-21,2025-01-10,27,Horror,Melaka,Malaysia,66,73,52
+943,94,2025-03-28,2024-06-16,80,Comedy|Romance,Muldersdriseloop,South Africa,72,20,27
+944,96,2025-01-22,2025-04-09,88,Comedy|Drama,Shreveport,United States,41,35,4
+945,55,2024-08-28,2025-02-06,46,Drama|Musical|Romance,Ukata,Nigeria,41,79,11
+946,49,2024-12-25,2024-12-30,26,Drama,Medvezh’yegorsk,Russia,70,70,99
+947,10,2024-06-28,2024-11-21,84,Drama,Solidaridad,Mexico,30,77,98
+948,39,2024-08-15,2024-06-19,77,Crime|Thriller,União dos Palmares,Brazil,60,89,18
+949,22,2024-09-23,2024-10-14,95,Children|Drama,Kasama,Japan,71,18,23
+950,65,2025-03-15,2024-10-02,13,Comedy|Fantasy|Romance|Thriller,Pétionville,Haiti,61,71,50
+951,38,2024-12-12,2025-05-07,42,Drama,Taiping,China,48,53,71
+952,6,2025-01-29,2024-09-09,71,Drama|Romance,Flagstaff,South Africa,61,31,69
+953,80,2024-08-16,2025-04-27,98,Drama,Pécs,Hungary,19,18,64
+954,25,2025-03-06,2025-02-11,31,Documentary,Jarānwāla,Pakistan,49,48,91
+955,92,2025-01-31,2025-03-12,72,Comedy,Kołbiel,Poland,5,71,37
+956,55,2025-01-06,2024-07-09,87,Comedy|Romance,Tozkhurmato,Iraq,84,5,4
+957,88,2025-01-26,2025-04-11,31,Drama,Lac du Bonnet,Canada,38,38,36
+958,88,2024-10-05,2024-07-08,52,Drama,Timon,Indonesia,100,66,46
+959,66,2024-07-26,2025-02-17,94,Drama|Romance,Babakan,Indonesia,21,88,97
+960,72,2024-10-22,2024-12-11,16,Documentary,Jenang Selatan,Indonesia,44,6,71
+961,21,2024-12-06,2025-03-29,29,Action,Nanterre,France,23,79,93
+962,26,2024-07-05,2024-06-29,18,Drama,Tromsø,Norway,45,83,8
+963,5,2024-06-01,2024-06-04,41,Comedy,Sangumata,Indonesia,64,79,91
+964,74,2024-09-15,2024-09-01,6,Action|Comedy|Crime,Ami,Japan,43,94,9
+965,11,2024-11-11,2024-12-11,3,Documentary,Dayou,China,94,7,22
+966,88,2025-01-14,2024-08-12,67,Drama,Pilar,Philippines,26,68,82
+967,56,2025-02-28,2024-12-14,6,Action|Drama|War,Seririt,Indonesia,34,56,68
+968,46,2025-01-13,2024-12-19,58,Children|Comedy|Romance,Atyrá,Paraguay,44,38,55
+969,87,2024-08-04,2025-02-05,76,Drama|Romance,Al Mukallā,Yemen,65,79,78
+970,27,2024-09-20,2025-03-29,60,Romance,Jinchuan,China,58,16,72
+971,85,2025-01-29,2024-08-30,39,Comedy,Sundsvall,Sweden,51,41,75
+972,58,2024-05-27,2025-03-09,41,Drama,Kyŏngsŏng,North Korea,2,69,59
+973,16,2024-07-04,2024-08-12,7,Comedy,Guanay,Bolivia,39,87,5
+974,95,2025-01-17,2024-09-25,68,Crime|Drama,Jönköping,Sweden,57,92,27
+975,42,2024-07-16,2024-10-16,50,Adventure|Comedy|Thriller,Shuigou,China,13,78,89
+976,76,2024-11-15,2024-10-13,37,Crime|Drama,Burnside,United Kingdom,28,74,72
+977,78,2025-02-23,2024-09-08,16,Drama,Danglang Hudong,China,2,91,57
+978,96,2025-02-10,2024-06-12,67,Documentary,Căuşeni,Moldova,7,14,64
+979,85,2024-06-21,2025-03-29,96,Horror,Arroyo Seco,Argentina,11,26,15
+980,34,2025-04-10,2024-12-10,62,Comedy|Romance,Jednorożec,Poland,59,87,100
+981,30,2024-09-02,2024-10-07,48,Drama,Usulután,El Salvador,78,99,80
+982,72,2024-10-22,2025-02-06,55,Drama,Shaghat,Armenia,52,93,90
+983,44,2024-10-08,2024-10-30,82,Comedy|Drama,Vestmannaeyjar,Iceland,93,15,91
+984,84,2024-09-05,2024-11-09,50,Comedy|Drama|Romance,Gyumri,Armenia,87,64,67
+985,33,2024-12-25,2024-11-08,85,Comedy,Los Pinos,Mexico,12,87,76
+986,15,2024-07-23,2024-12-08,22,Drama|Romance,Longcheng,China,28,53,27
+987,59,2024-07-14,2025-04-06,53,Crime|Drama|Thriller,Balaka,Malawi,93,45,11
+988,75,2024-11-16,2024-09-08,14,Drama,Napak,Uganda,23,35,4
+989,47,2024-12-10,2025-03-28,20,Comedy,Ketitang Wetan,Indonesia,95,54,96
+990,63,2025-04-26,2024-10-22,70,Drama,Inglewood,United States,91,18,54
+991,70,2024-12-23,2025-04-09,60,Adventure|Animation|Children|Comedy|Fantasy,Des Moines,United States,28,26,58
+992,35,2025-03-14,2024-09-21,6,Comedy|Drama,Leiden,Netherlands,63,81,93
+993,37,2024-10-18,2025-01-12,37,Comedy|Fantasy|Mystery|Sci-Fi,Wuyao,China,55,93,46
+994,30,2024-07-14,2025-02-08,3,Action|Sci-Fi|Thriller,Waihi,New Zealand,45,45,88
+995,56,2025-02-17,2025-01-30,75,Horror|Thriller,Meia Via,Portugal,19,54,50
+996,99,2024-10-20,2024-12-20,93,Adventure|Comedy|Fantasy,Hedong,China,86,30,91
+997,73,2024-07-28,2025-04-21,6,Documentary,Padang,Philippines,43,72,86
+998,61,2024-07-04,2024-12-21,99,Drama,Shengli,China,81,90,20
+999,93,2024-09-12,2024-11-04,24,Comedy|Drama|Romance,Al Maḩjal,Yemen,79,97,7
+1000,51,2025-03-08,2025-05-09,100,Western,Modderfontein,South Africa,50,27,79
